@@ -1,0 +1,1443 @@
+{
+  "meta": {
+    "note": "從新聞標題抽取的當週民調（tier=media，權重低於機構公布表）",
+    "window_days": 45,
+    "updated_at": "2026-11-12",
+    "stats": {
+      "queries": 24,
+      "items": 1124,
+      "extracted": 140,
+      "skipped": 967
+    }
+  },
+  "polls": [
+    {
+      "region": "基隆市",
+      "source": "上報Up Media",
+      "media": "上報Up Media",
+      "date": "2026-10-15",
+      "values": {
+        "謝國樑": 42.9,
+        "童子瑋": 38.3
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "童子瑋",
+        "謝國樑"
+      ],
+      "gap": 4.6,
+      "title": "【藍營民調】基隆市長謝國樑支持度42.9％ 領先童子瑋4.6個百分點 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoYnFBMVFOcmNRT2ZrWWpUOWZvR2hSS1F0ZzdJRGV3RF82UHFST0RjNTFoUF9lTUkyU0N2QTAtWU0wanJYNmlPZ3NyR1JMNW9YOGtRNFZCMXc0UzA?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "基隆市",
+      "source": "TVBS",
+      "media": "TVBS新聞網",
+      "date": "2026-10-20",
+      "values": {
+        "童子瑋": 35.7,
+        "謝國樑": 41.3
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "童子瑋",
+        "謝國樑"
+      ],
+      "gap": 5.6,
+      "title": "藍營民調／基隆市長之爭！謝國樑41.3％、童子瑋35.7％ 差距5.6％ - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5OE51MjNIeFF1UDVQSWUyR0V1eXo5ZXZUV3ZSUjRRNW5sS3g1S2xwTHltWk5nbHM4RmFqal9qb0Q1V2ZlWE85R0g0ek9wOUtkRG1N?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "基隆市",
+      "source": "鏡新聞",
+      "media": "鏡新聞",
+      "date": "2026-10-23",
+      "values": {
+        "童子瑋": 37.0,
+        "謝國樑": 36.3
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "童子瑋",
+        "謝國樑"
+      ],
+      "gap": 0.7,
+      "title": "鏡新聞基市最新民調　童子瑋支持度37.0%、現任市長謝國樑支持度36.3% - 鏡新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZWThUeDhjUDhKUV91X3J1V1dkbnNCTFhGRy1jVmhaTGUta2NNTUdMN0xDcy0tVHpvSFZYMnhyYVFJLTA4ckpLYThrODRod2dnTFHSAVdBVV95cUxOSUlpekpqQTJkcFQtNjJQUElVUHN5MFAwMUduTzA0YVA4SjFDenFQUlI1ZTNZQ1ZWU2hDbDF4QkxFUG1rY0g3RHhnRl9MaHhMeUlEUDZLNnM?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "基隆市",
+      "source": "鏡報",
+      "media": "鏡報",
+      "date": "2026-10-23",
+      "values": {
+        "童子瑋": 37.0,
+        "謝國樑": 36.3
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "童子瑋",
+        "謝國樑"
+      ],
+      "gap": 0.7,
+      "title": "鏡新聞民調／基隆市長激戰！童子瑋支持度37.0%略贏謝國樑36.3% - 鏡報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nV1hYRTVrSFBSbHB6enhyckRnOE10dTg5OGQzVkR0RmdwaGM1SWlFNm02YVZEQjEyZzkxa3N6LXh0elI3aXJoSEZYYmJiRjJ0NUE?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "基隆市",
+      "source": "中天新聞網",
+      "media": "中天新聞網",
+      "date": "2026-11-04",
+      "values": {
+        "童子瑋": 35.6,
+        "謝國樑": 36.1
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "童子瑋",
+        "謝國樑"
+      ],
+      "gap": 0.5,
+      "title": "基隆市長選舉最新民調出爐！謝國樑支持度36.1% 童子瑋35.6% - 中天新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhYnNQR21LWmE5V29oZEE0RFJ0OFhpZUF3RWptUmVkNXRESUJFazJVc21ZR0hJSXdUa2RXQlFPVGxZTGZwdi0wLTRjWV96QkVzOEs0?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "彰化縣",
+      "source": "UDN",
+      "media": "UDN",
+      "date": "2026-10-19",
+      "values": {
+        "陳素月": 32.0,
+        "魏平政": 16.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "陳素月",
+        "魏平政"
+      ],
+      "gap": 16.0,
+      "title": "彰化民調／綠陳素月32% 領先藍魏平政16% 逾4成觀望中 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tNUE4NTNtbUpkbmJoN2xzWU5QT0pJcHh6eFdJcjltMGtsVEpwY3BTNk96QnpZTUJ6MnVUczduOEpLR2pEdTJnR0RsUkdoZVNCeUtJ0gFYQVVfeXFMTzJLUHVTN0RNRWUzQ3lxUExITmVVTEc5Wm43ZUNaUHVLUndvOGFEUEs1N01qTlV2M05helhyeTdEeEw4V3VPckhYUnNUOW81b0g3dzI4bHc3Tw?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "彰化縣",
+      "source": "PChome Online 新聞",
+      "media": "PChome Online 新聞",
+      "date": "2026-10-19",
+      "values": {
+        "陳素月": 32.0,
+        "魏平政": 16.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "陳素月",
+        "魏平政"
+      ],
+      "gap": 16.0,
+      "title": "彰化縣最新民調：陳素月32％領先魏平政16個百分點高達4成選民仍觀望- 生活新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQODREMTQzeGNsWktJRmhERUtETTk2M0RFeXU5STRYaDNlX05mbV9WMkdmNTVQUkJPb2Z6eGJ2Qi1hWllPTDJQbHNJVzEybk5PdG92dDBUZVN1NWVpdThMTFpzbUZ5NlRTNUhCWGpPaU9ySk05TDlBcmlmOS1NeThtY2ZSemo5ZWJT?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "彰化縣",
+      "source": "台灣中評網",
+      "media": "台灣中評網",
+      "date": "2026-10-19",
+      "values": {
+        "陳素月": 32.0,
+        "魏平政": 16.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "陳素月",
+        "魏平政"
+      ],
+      "gap": 16.0,
+      "title": "彰化縣長民調：陳素月32%魏平政16% - 台灣中評網",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBESmhISFlMZnpkYlhaMGJVaVpack01NEZGTzNkbkdrRXJFRkxEemVHMUZuWWVEdUtQa2xxOTZicmNJSFpuZmpTUDRuVDZhYXpkS0JMVmRXS29ETi1ZcUZrTjg2SkctbjZtN0pzZll5UldVdXhuUkhQTWh3bEdRUQ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "彰化縣",
+      "source": "Yahoo新聞",
+      "media": "Yahoo新聞",
+      "date": "2026-10-19",
+      "values": {
+        "陳素月": 32.0,
+        "魏平政": 16.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "陳素月",
+        "魏平政"
+      ],
+      "gap": 16.0,
+      "title": "彰化縣長民調藍苦戰！民進黨陳素月32%勝國民黨魏平政16%、42%選民未決定 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQSmliaDI2XzBRN2M4Wl9leVR2aVdueklEYU80UkVHeGwwTWlLLTN5MGhoUFpHRUxtQmtyX05NMVJnZ1BFb1RBSE9YQUVRdVp4ZFhjdGx1WG5weG9ES19HQ1JOUWVRaS1La1hrUkxRZ2tHdmVuTHMyQmZxeVFQaHRpV2drWW40a0pOWGFSbjNackNWSThjV3g3aEdHT01ITXV6Wl9iMVU5ZkZjd2dfdjdnTzM4OW4xR0h6bVJCVHpseG52Y3VPT3hJTld2bXcyOFhqbFkxVkQxM25fbFQtU3h4T25UVTlPX00wbDJXRy1UeElfLWhkcW1TYkVZa3c2aXZqWHZtNy1CYnpEZVNpdEZMLUx1czhpSWZjaXpuVC1yeW41aU90R2QxLXdzbnVCZC0wTnJ4ZGU4ajlJRXRGTmlvVWhkR0w0TWxLeVFQVlhIQnBzcXQxaGlKWkhIa0dxcmxYYXRxMHBYeFp6cXk2SHlvZWlWYXBGVkVXZ1h6V1JNV0dleTNMLXloSlotVXZ4cV9XcHo2V0FFQW01SUZJN2E5WVFHb18?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "彰化縣",
+      "source": "TVBS",
+      "media": "TVBS新聞網",
+      "date": "2026-10-19",
+      "values": {
+        "陳素月": 32.0,
+        "魏平政": 16.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "陳素月",
+        "魏平政"
+      ],
+      "gap": 16.0,
+      "title": "聯合報民調/彰化縣長陳素月32%居首 魏平政16% 逾四成選民仍未決定 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Nd3hDOURiZ3BJWFZldVo1djc3QTJrdndNeVM3ejB6RGVfcFVpN0NxbEpMWWZETmR2YkVrNU9sRjFPN3prbTdLaG96TlJPcmtYR0dR?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "彰化縣",
+      "source": "上報Up Media",
+      "media": "上報Up Media",
+      "date": "2026-10-19",
+      "values": {
+        "陳素月": 32.0,
+        "魏平政": 16.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "陳素月",
+        "魏平政"
+      ],
+      "gap": 16.0,
+      "title": "【最新民調】陳素月32%支持度領先魏平政達16% 逾4成彰化縣民未表態 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lSHhWUjNHeExoaXlhaWRUam5senJ5S1FXTnFMUFh6UnB4eUVoZzdfTlpSTzlmRVZXYlR1RTFBUmdzVUhPNVAxM2wtWDE5aUM3anJlNnZjN29hcFU?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新北市",
+      "source": "TVBS",
+      "media": "TVBS新聞網",
+      "date": "2026-10-13",
+      "values": {
+        "蘇巧慧": 43.1,
+        "李四川": 30.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "李四川",
+        "蘇巧慧"
+      ],
+      "gap": 13.1,
+      "title": "信民民調／新北市長白熱化！蘇巧慧43.1％領先李四川 差距13.1％ - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4MVMteFRpc05QSGhiMHVqcnlJS3Iyb2Q0Q3dIWFYwM3VnNVRvMm9FQ0h3WUN2MHNESy0xdEYzYnY2VnFhRTdvaHZhOEZ0SWRGTXFF?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新北市",
+      "source": "信民協會",
+      "media": "UDN",
+      "date": "2026-10-13",
+      "values": {
+        "蘇巧慧": 43.1,
+        "李四川": 13.1
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "李四川",
+        "蘇巧慧"
+      ],
+      "gap": 30.0,
+      "title": "北市民調遭質疑 信民協會再公布新北蘇巧慧支持度43.1百分點勝李四川30百分點 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wZ0ZSeWMwZUktQkljbDRjbkRpS0h2akFUZll5bERqbXMxYVNkZnRtQ21RbGxEb2kyckhKS29VWjFCbF96QUZ3WVlVVWwxMWdjdWpN0gFYQVVfeXFMTjl3ZlNaLVJVVkI0Zkcyd2pEdHVVeW1wNVM3V25mZFl6VE9icWdyNHBRVzM1aWhNU2k2cjJaY0FaZDMwXzktYVNYbzZPQTR6YXRzQmx3aExhaA?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新北市",
+      "source": "自由時報",
+      "media": "自由時報",
+      "date": "2026-10-13",
+      "values": {
+        "蘇巧慧": 48.6,
+        "李四川": 35.9
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "李四川",
+        "蘇巧慧"
+      ],
+      "gap": 12.7,
+      "title": "誰最適合當新北市長？ 最新民調：蘇巧慧48 .6％、李四川35.9％ - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFpaLXdKYUlNWFB2N29fdTktSjR2ODZGOHJRcjJ5Y1JGZWxWYmdRRUZBUU9QbDlwWklqekpkRmRqVDlORFRGaktkWllFTXNxczRjY2lJd19LSTJrRVQxbXpoZmRaQWN0Y1E3VmNBUUMzeERiR3Foc3Z2T2kyZU5YRTdtV3ZqUQ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新北市",
+      "source": "中天新聞網",
+      "media": "中天新聞網",
+      "date": "2026-11-09",
+      "values": {
+        "蘇巧慧": 42.0,
+        "李四川": 39.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "李四川",
+        "蘇巧慧"
+      ],
+      "gap": 3.0,
+      "title": "新北市長民調混戰！蘇巧慧42%、李四川39% - 中天新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BTFZpOHhvNERrWm1PRzdfV2JnejBYbVQ5UEdvRGlBNHhCRHdDdkZMX1k3R0hkM2dqNGRsMFVXUXNLVW54dlByOUJINGRxTU5jWF9B?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新北市",
+      "source": "Taiwan News",
+      "media": "Taiwan News",
+      "date": "2026-11-09",
+      "values": {
+        "蘇巧慧": 42.0,
+        "李四川": 39.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "李四川",
+        "蘇巧慧"
+      ],
+      "gap": 3.0,
+      "title": "新北市長民調／蘇巧慧42％、李四川39％ 近2成選民尚未決定 - Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UQ1JITWhid3NPS3NNOVpnWlZjZWV1Sy05OUtPeVVsY0RYNE8ySzV6YUFsRm10NFpMal8zcWl5UFNIaUk5eXltQXk5eFlfcDBRcnJhTXdONXc?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹市",
+      "source": "中天新聞網",
+      "media": "中天新聞網",
+      "date": "2026-11-03",
+      "values": {
+        "莊競程": 36.1,
+        "高虹安": 38.1
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "莊競程",
+        "高虹安"
+      ],
+      "gap": 2.0,
+      "title": "新竹市長最新民調！戰況呈現膠著 高虹安38.1％VS莊競程36.1％ - 中天新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvLVJoVlhRZzZ5VVlhaHh6YUtWYTRaV1laQTBzYWZSaVVycVhsYk5DdEJyd3AzUjhyYVN3U0pXeF9PejJmenFpcDh3Y3FCTklqM0Jj?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹市",
+      "source": "三立新聞網SETN.com",
+      "media": "三立新聞網SETN.com",
+      "date": "2026-11-05",
+      "values": {
+        "莊競程": 31.0,
+        "高虹安": 46.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "莊競程",
+        "高虹安"
+      ],
+      "gap": 15.0,
+      "title": "最新民調／新竹市長3搶1！高虹安支持度46%領先、莊競程31%居次 - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aSDQ4LWVwa3NtQUVEOXBqQ18wM2hNMFlXRi1WSndEMmtWMXhKNTVkX256MXB2ZENLLU8wREtSaGJpYmFUV1l5cdIBTEFVX3lxTE5aMFJab2I4LW95enA4d1RQeGJuUzktQ3lNcmYxUWNxLWIxOWJJSFh1S084Nlh2LVRmRHVMUHRIVEJMN0k2TzNERkRIbTA?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹市",
+      "source": "TVBS",
+      "media": "TVBS新聞網",
+      "date": "2026-11-05",
+      "values": {
+        "高虹安": 46.0,
+        "莊競程": 31.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "莊競程",
+        "高虹安"
+      ],
+      "gap": 15.0,
+      "title": "最新民調／新竹市長之爭！高虹安46%領先莊競程「15個百分點」 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kUnN3YkdMcmFYMnJXNXJZSlhIRjZhenpxYl9uTUE5SjhkLVR5OGVKSEZDTWJmT0d3dGh3SEVOM05mWmllN0JHSTk0dHNRbWowbXVZ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹市",
+      "source": "TVBS",
+      "media": "上報Up Media",
+      "date": "2026-11-05",
+      "values": {
+        "莊競程": 31.0,
+        "高虹安": 46.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "莊競程",
+        "高虹安"
+      ],
+      "gap": 15.0,
+      "title": "【TVBS民調】新竹市長高虹安支持度46％、莊競程31％ 施政滿意度過半 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94T09oOEtiV29FY0djbnBiUjF3Tk9GbjVhTE1uWk9hdWNVR19DNFE0dWRXM054Vnp3RkxmTUsxUEMyTDdfYTNWdHZIaVBEc3RwTXRJYjdMOEhKd3M?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹市",
+      "source": "ETtoday",
+      "media": "ETtoday新聞雲",
+      "date": "2026-11-05",
+      "values": {
+        "高虹安": 46.0,
+        "莊競程": 31.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "莊競程",
+        "高虹安"
+      ],
+      "gap": 15.0,
+      "title": "最新民調／新竹市長投誰？高虹安支持度46%　領先莊競程15個百分點 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02bDFSTWZXTUtSM1VNbzNwMDlXb2I0WjBhS3hGcERNekhiVk1TaGc2QmtWVVNhYWlXanU2clpvM1RQNXhfRUhCYXJjNmtLQk9iUnB5NmhZZTJ4dGV1Y0HSAUtBVV95cUxPTXU5d0FTY1NraV91NmJleEJkNjlTMk9TUEZ2WXNBMVVkOFV4QTd5cHhaVlByMVREVnNOcElBblRaLXBraWV2eTBPck0?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹縣",
+      "source": "年代",
+      "media": "Yahoo新聞",
+      "date": "2026-11-12",
+      "values": {
+        "鄭朝方": 36.9,
+        "徐欣瑩": 28.6
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "徐欣瑩",
+        "鄭朝方"
+      ],
+      "gap": 8.3,
+      "title": "年代最新新竹縣長民調出爐 鄭朝方36.9%領先徐欣瑩8.3個百分點 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNZ3FIZXhWaVpoLXZ6ZWd6T1FZMjdFNWt1c0VQaFY0UkVSeW84RDM4WVBIc1lNUFRMWnhwODVOZTBHeG1NYkhBM05QZ1hfcy16YW90bGRhMGZlZzB2eGltTkRLSF8xV2xQMUVkOWFoRXFYcmptaUtsb1lsNEdQeEpVZkNFc0duUWgxam9SN3BkYmdVclh6UXRrWFRJWFVuTkcwbEh1S3NlbWRhMzdNN3dZeXg3TUlYUG9ZMlRuTDdBczN0MEVaRG1wQWhQeU92N0ZjQkxCVWR0VHo0dkNkbnVIRjRqd0NxZDhRWjdGWVNQQ2tFcUFWZWdGZzRpTWpoTzYxNlctQktBb0IwSGF6NmdyZkFJR0V2bzVCSW5LeEdZMkUtZ19rb0NnMUFrRVduV1p3bF9rbzYzS2N3eTVHLXdVb05Pa1d4RWQtMjFIdU8yYjBJS2xSYlVFdFRuTHhZSERmZGRJbEk1Y2VtU3F1c1hfaEduUExPMmJwbC04QTFFWQ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹縣",
+      "source": "年代",
+      "media": "UDN",
+      "date": "2026-11-12",
+      "values": {
+        "鄭朝方": 36.9,
+        "徐欣瑩": 28.6
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "徐欣瑩",
+        "鄭朝方"
+      ],
+      "gap": 8.3,
+      "title": "新竹縣長誰領先？年代民調鄭朝方36.9%領先徐欣瑩8.3個百分點 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wUk9zS2ZHUGFOWVVpc0I0aFd6aEppRng3TFI5dnNGMDJEbzVUNkU4NnVLekRpVlVDeU1pdm54cWY0UmtBQTZ3NWpmZ2xCNkUtS1FZ0gFYQVVfeXFMTjYxMUp4OWJ1ejdMbGdPRnl2QnFZTlBxWm1OMEo0bDdKTlpQY3BZN1VDSjJiYVR5Snc0R0lZb3NqX19pdDlHc3lMR19SVTBkeTM0VHB4ejJYYg?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹縣",
+      "source": "年代",
+      "media": "Yahoo新聞",
+      "date": "2026-11-12",
+      "values": {
+        "鄭朝方": 36.9,
+        "徐欣瑩": 28.6
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "徐欣瑩",
+        "鄭朝方"
+      ],
+      "gap": 8.3,
+      "title": "【年代民調】新竹縣長鄭朝方36.9％領先徐欣瑩28.6％ 民眾黨支持者也較挺鄭 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQ3p4MDktbHVjMm1GdHpvMEtNQmk1NlhGVzg5YTI5cWlHWjY2V2lCa2djeVZ0RHV2UGVwTllUOWVlakpZaDlPSEpNREc4em5FdllkdkFZZTJHQW1KUHpseDluMnB4d09nSE9sMERKUjBEczBrbF9YbGxSd0thNjB2OUdJTTY0bUdsVkd2eHdyVDBnVEY0Sy1UQjhuS2JWUTRpVWhxVzBsZzJieWRaR2JoU2tTZk5RWUxOaVNDaFp1azFlN29LMFgzMERYTXVyVGY3bklxZlVMTmo1dzdJeWdVajlWUktSbFJLcVZIb3R5a0tXWnRZRE80bmVmUzlBOGtPTHRSS2t0bWUxLTdRNDdjbWNsOW9iaFVoUUJqSTdLRDg?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹縣",
+      "source": "年代",
+      "media": "Yahoo新聞",
+      "date": "2026-11-12",
+      "values": {
+        "鄭朝方": 36.9,
+        "徐欣瑩": 28.6
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "徐欣瑩",
+        "鄭朝方"
+      ],
+      "gap": 8.3,
+      "title": "竹縣最新選情！年代民調：鄭朝方36.9%vs.徐欣瑩28.6% 雙方回應了 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHlMXzExUlY5Tm4zd2lpdWVmNm5FOUM0RmJVRlppaWI1SVlWLXBraGU1c3RvSWZhbGVGd0hUeEVXUDM3UERjdWNQNGFiLU1QSEFqeVNjcWRxRFZrMnZDaEI3U2xiTHRoZzdlbVJaX2dzVE45S2VBNTZudjM2UV80bV9VVHB4cmdtSUcyNEtXQkpPWkVseFBlQjVlTjMwS2VGWmZSY0F6dGtGTEJOcnFnSW15cG1hYzR5NlVnUnFKZWhXN1dPTTNIQmtBdTYxZUtaNW9lYkNZb1AzekpuSEsya0tRanA1WER1S1lWcFdnYkZRQk0yc05kb1dNdw?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹縣",
+      "source": "Yahoo新聞",
+      "media": "Yahoo新聞",
+      "date": "2026-11-12",
+      "values": {
+        "鄭朝方": 37.5,
+        "徐欣瑩": 44.4
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "徐欣瑩",
+        "鄭朝方"
+      ],
+      "gap": 6.9,
+      "title": "新竹縣長最新民調 徐欣瑩44.4%領先鄭朝方37.5% 學者賴祥蔚：鄭家「本命優勢區」不如預期 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZTdxVnljU3VqYU9KUkJjWnNHczg2Vi1oWUtFQ3FNODAzZXFrRUxpM3ozb1UxQ3JXRWhFVHJWMGhxdzU2dVlrdV9xcEh4d19KRnRrSjdlZ2dUSUhLNjIzLU1JdUxRM1dFYnEyQThIXzhhYS1SdWUwbnF4MlJQNlBVTE1JYS1OeEhTY3FJUGNkZVdzb2VkOVdRbndxdklIX0FwTkZBUEU5TDVHWXpaLXJ1d2lNQXVSNFBUNzh2aFRKS2RFaG5nMWRicjFrRC1pSHl5U0s5QWR0RWwzQWg0MmFiSl9xYzVKWHJFa2x6MWhhb3Ytd1lrakY3MUlRRTNkcFN0T2tIRHgtSEJxaFVUanBoaXkxTWVTZXZIMHBjOWwxdWc?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹縣",
+      "source": "TVBS",
+      "media": "TVBS新聞網",
+      "date": "2026-11-12",
+      "values": {
+        "鄭朝方": 36.9,
+        "徐欣瑩": 28.6
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "徐欣瑩",
+        "鄭朝方"
+      ],
+      "gap": 8.3,
+      "title": "年代民調／新竹縣長選戰倒數16天！鄭朝方36.9%領先徐欣瑩28.6% - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfcnEtbElUcDlnUlZmSU8wX1J4bTlqWkNJbzVrUHBXZFFHSmg0TVh0YUI5ZUpVZnluZ0FFUHRWT0hib0JHSnU0OGEzUVRWaDJMZ3lR?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹縣",
+      "source": "年代",
+      "media": "太報 TaiSounds",
+      "date": "2026-11-12",
+      "values": {
+        "鄭朝方": 36.9,
+        "徐欣瑩": 28.6
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "徐欣瑩",
+        "鄭朝方"
+      ],
+      "gap": 8.3,
+      "title": "竹縣最新選情！年代民調：鄭朝方36.9%vs.徐欣瑩28.6% 雙方回應了| 政治焦點 - 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8waFlVdXFXMy12SVlGV0N2ZW9KVEpNdTJGSFI0NU5sNnNrSkU5WkNEVFJNVTQ5Q05xNklaeEhvU21nT3JPZ0c5NWYya3FWSnNLbmpqeVY3QWVTRHJQ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹縣",
+      "source": "年代",
+      "media": "上報Up Media",
+      "date": "2026-11-12",
+      "values": {
+        "鄭朝方": 36.9,
+        "徐欣瑩": 28.6
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "徐欣瑩",
+        "鄭朝方"
+      ],
+      "gap": 8.3,
+      "title": "【年代民調】新竹縣長鄭朝方36.9％領先徐欣瑩28.6％ 民眾黨支持者也較挺鄭 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGX1JRNWRqcUhrX0l5X044SEpqNWxVVmxmaGI5SHlRNm9yT3p4d3ZPMURtRmVvWk1nS1ZndFlYdHk1YVozbHNFQ0ljRTNweW1CMFJnblhoS0w2bjA?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹縣",
+      "source": "中時",
+      "media": "中時新聞網",
+      "date": "2026-11-12",
+      "values": {
+        "鄭朝方": 37.5,
+        "徐欣瑩": 44.4
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "徐欣瑩",
+        "鄭朝方"
+      ],
+      "gap": 6.9,
+      "title": "竹縣長最新民調徐欣瑩44.4％領先 鄭朝方37.5％ - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zMHdlNTQ5WHFfeDRDMWhPZFVqb19fU3dnSmpRNm13SzU5LUxGbHJtTnczSkptd0d0TlVnRFAwQ2VKZW1Ga0lRR3VvekY1R1pEeDhyQ1pYUEVqSlZVWW5pd21ad01KY3lPN1JFb3ZR?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "新竹縣",
+      "source": "睿傳媒 Rightmedia",
+      "media": "睿傳媒 Rightmedia",
+      "date": "2026-11-12",
+      "values": {
+        "鄭朝方": 37.5,
+        "徐欣瑩": 44.4
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "徐欣瑩",
+        "鄭朝方"
+      ],
+      "gap": 6.9,
+      "title": "新竹縣長最新民調 徐欣瑩44.4%領先鄭朝方37.5% 學者：鄭家「本命優勢區」不如預期 - 睿傳媒 Rightmedia",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vM3BnZ3lKYzJpWWtuWEJtaEsxb3NUaTZqZTBvX2lGbWh5NmtCazRxZ3NFT3M2dDYtSlJjT3VJUzVuRVRVa3ZiUGl5N21mWTRyNUVsS3RhUQ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "LINE TODAY",
+      "media": "LINE TODAY",
+      "date": "2026-11-06",
+      "values": {
+        "張善政": 35.0,
+        "黃世杰": 28.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 7.0,
+      "title": "桃園市長民調出爐！黃世杰28%緊追張善政35% | NOWNEWS今日新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1FZbHV0LUZ3a3l1dk1RNkJYOEgydlhyVFZBVjY5a01vSzA0UGxyNDI0ZG5OSDZKa2txeDZGQUFfQlhyNWRwQ010aUktYjk3OXhiX0diTl9ROUtXbU9zUDFHaDNEendMQUtxYmVzblVEclZLNlhtOGJQaHBsZy1FY2VydWU?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "Yahoo新聞",
+      "media": "Yahoo新聞",
+      "date": "2026-11-06",
+      "values": {
+        "張善政": 35.0,
+        "黃世杰": 28.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 7.0,
+      "title": "桃園市長民調／張善政支持度35%領先、黃世杰28%緊追 一定會投票市民僅差4.3% - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQLV8zV3lFYkluNnE2VGV0dzkxdXljS3lkbjZqdHZ1elktN1BjVmQzYWlhMW83WmZfWFlBaUVCQnN3RXRCLTVNSDFJM2ZxcU5mNUY3TjA4eWM2c2RSSVZadE00dUQ3V1VnNzNmVl9PMmlvZnhOaW1HVnJJbkNpLTZ0a3FwVlNZaktjLTNjR3RfMG9sY1FUdDcxeG9CQVh2b3N1MXdOTlNESnVMWVhoeFFFUGhtUFdpWEZEd20zZS1feTBQeFdCcnNlVVVRVW1tRWJjZHExb0k4b0NMWlFfUXZGc2RaaEVPcVdOUGJ5NXA4b1JiOUFJTVVNRUFNZVZrTzV0bTBrMzNDZXBzanJpZFU1azJYdTRJMloyOFRBaXB3ZElEZ2gxRHc2R3lsLTUyc1NfSnF3UjBQZUNtVGNDQ2otUnZn?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "華視新聞網",
+      "media": "華視新聞網",
+      "date": "2026-11-10",
+      "values": {
+        "張善政": 36.9,
+        "黃世杰": 32.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 4.1,
+      "title": "桃園市長民調 張善政36.9%領先黃世杰32.8% - 華視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HN2NCaFlPZkFVclduR2l3bVQ3U2t2VTFldkpLUmZrRkpkYjI3aVFaZzNtZ1NQWFZUVHQ4SUpTUGxaM2hqVTBMNmIxRElqeGRpN1RZRXFicldsQWU5RnEyU2p5UHQ2Q1ZxQUhVdXdKUHdiQQ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "戴立安",
+      "media": "Yahoo新聞",
+      "date": "2026-11-10",
+      "values": {
+        "張善政": 36.9,
+        "黃世杰": 32.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 4.1,
+      "title": "【戴立安民調】信民協會最新桃園市長民調公布 張善政支持度36.9%領先黃世杰32.8% - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPV3lrOVFpODNJcXpqN04wLWZrcmRXVlE2Si0tZDNFRmFHYkQ2bGhPUXB4Rk51a1ZaN25nVWFCdDh1Ykp2YUtybmFkOTlWMXc0U1RwSDlUM21oWG9OcVM1OXVlU3RaRjJRVWFyR2x1bkQ2THM5X1RxSjhsQnpmQUJsM2QzMldUeWV1SmtsUTk1R3RlTFZYLVREdzMwZzhkRTV3ZUxpdkhVdUJFVzVFYV9qR3R2UEN1ekFmZXB2QVFIUk9JUjJYMTRNLVBtaWtpeFFYWjVoN2pQdTVGSWVnYmhzcXZsQ1ZvNHlBeC14c1NHa1J3RUl2QWhVblFvaWw2OUw3U05KeXNaajN4NTJneGlDcnZGQ2JBM3oxTDlla3RjTXQ4WVl2LV9OUnZQZW10TTJRdHVnUmN5VUJYVEpSWm50MW02SkU3cGpjamhLd1lLaGZJdE9hS1FTNzRwUEJiSkEyUUlJcUQ4cGszT1BqQ2tTOWZjN3lrQmV1Ql9kR2cyU2VGQk5TS214S2tJSlo5aXh2Q01MenFsaV94M0dxTWpMQWMydWZsR2tHSFZqdUxLbkJid3Fic2tlSHN6SzhSb0pZdnFONjcxbmRSNnRZTEx1eHZFaHpHMnZ6N1lMYg?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "台視新聞網",
+      "media": "台視新聞網",
+      "date": "2026-11-10",
+      "values": {
+        "張善政": 36.9,
+        "黃世杰": 32.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 4.1,
+      "title": "選戰倒數！桃園市長最新民調曝光 張善政支持度36.9％、黃世杰32.8％ - 台視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oT0VDMUMwZVRjRXo2SE1TQlZ0bnltY3lDNjJMU3pmc29uYmlrbkg1X2NLM1BER1pJMkg2RmltR2ZkQWxoNnV0eGgzcjhGekV1cS1ldl81bw?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "台灣中評網",
+      "media": "台灣中評網",
+      "date": "2026-11-10",
+      "values": {
+        "張善政": 36.9,
+        "黃世杰": 32.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 4.1,
+      "title": "桃園市長民調：張善政36.9%黃世杰32.8% - 台灣中評網",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbkhWWnNhQnlJY0JqV25SemdBczhTZUJzZjR2NnF6TDZnR1dDSzVpV3lUbDRXdFpwREZITWNObzdYVVg3YXpSQk5ZM0JDX1FoenotWGhHWWl3ak16WHluMUVPUmVhYUlKa2VCX1FVOWR0ZjNFR2VKazkwTHkyRk0?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "東森新聞",
+      "media": "東森新聞",
+      "date": "2026-11-10",
+      "values": {
+        "張善政": 36.9,
+        "黃世杰": 32.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 4.1,
+      "title": "選情拉近？最新民調黃世杰32.8％ 張善政36.9％ - 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90bG12Q3ZaX1hGeGM2VW5DMVFBbXZ3QTlxcEdzOHh3NkJkbEh1dWY1aHZ3RnhiSW9mdGZIWXlORXVtM0h6cjB0VEc0cnpVbENSc3FRZjZrOA?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "TVBS",
+      "media": "TVBS",
+      "date": "2026-11-10",
+      "values": {
+        "張善政": 36.9,
+        "黃世杰": 32.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 4.1,
+      "title": "信民民調／張善政支持度36.9％、黃世杰32.8% 看好度張善政碾壓他 - TVBS",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GM011QXFGcmgtbjFsUmhRelBaeEpBcHg3clo5UDdqRUlOQ0ZOdms2Tk5hVkdyVDY5LXEtemU4cEdQc2pOdGZVd3dkYXlKa2J3ZU5R?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "三立新聞網SETN.com",
+      "media": "三立新聞網SETN.com",
+      "date": "2026-11-10",
+      "values": {
+        "黃世杰": 32.8,
+        "張善政": 28.7
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 4.1,
+      "title": "信民民調／急起直追！黃世杰獲32.8%支持度　僅落後張善政4.1% - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UZjVEY3lDNmVWRHVqbEVTNVZtcy1ZRzhfejNNUHg1bTlsZmNFV1NsRmxkazNxdWNoeGZKeGhMb0IxSjBDYTV1ONIBTEFVX3lxTE1acVlUTFkwWUpsZTF5bXlZZzdpNXdqakV3WFVGOVdMck8xUFVGdXp1YURkRzlVUUtTblhYTjJtVWtiVUpuVHZOOW82dEo?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "戴立安",
+      "media": "上報Up Media",
+      "date": "2026-11-10",
+      "values": {
+        "張善政": 36.9,
+        "黃世杰": 32.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 4.1,
+      "title": "【戴立安民調】桃園選情也拉近！張善政36.9％ 領先黃世杰4.1個百分點 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82RTk0ZmtXdmU4MU85cG82SU1vNlhBTVYxSGhqMGpId2dDbTl4Vi1CRndjUjctMlp6Ul81NTljd0NQMFkyc3ZlQWZ6OGk4WjBoLTEzMzJCa1lsQXc?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "桃園市",
+      "source": "自由時報",
+      "media": "自由時報",
+      "date": "2026-11-11",
+      "values": {
+        "張善政": 36.9,
+        "黃世杰": 32.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張善政",
+        "黃世杰"
+      ],
+      "gap": 4.1,
+      "title": "桃園市長民調》張善政36.9％ 黃世杰32.8％ - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZNkxjQ0xHbGt0WVlaUUJuSkpZUGU4eDdtYXR0WXdaYXdqTTdpZmFoSmhLREszSmk4UjBqWGQyRXgxcjNXQWlfNDlmdnNSTUxGU0NmU3l4QmJGRWJ6aWJTStIBZkFVX3lxTFBjVEFMeTJQdWNUeGF6YnV3SFJBaXZXalZSZ0xoQU44U0hyWE1zUnE0VnN1V1ZYTWNRaVVtbTlaXzRET0ZIb3lyaTh3UFVFbzNBTE9hLUF1M1B6NnBlVGJnQzVBYlJPdw?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺中市",
+      "source": "TVBS",
+      "media": "TVBS新聞網",
+      "date": "2026-10-07",
+      "values": {
+        "江啟臣": 37.3,
+        "何欣純": 31.3
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "何欣純",
+        "江啟臣"
+      ],
+      "gap": 6.0,
+      "title": "年代民調／台中市長最新支持度曝！江啟臣37.3%領先何欣純6個百分點 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QU1RmV2RBd2NyRDVqSEg3c09Vb1p3bEVYeTdkZHJEN3ZMaXdkTkl5SE00a3lmbXljc2tmc2duRWIyT2pEbTllMmthN090c1JEMkl3?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺中市",
+      "source": "ETtoday",
+      "media": "ETtoday新聞雲",
+      "date": "2026-10-12",
+      "values": {
+        "何欣純": 32.4,
+        "江啟臣": 34.3
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "何欣純",
+        "江啟臣"
+      ],
+      "gap": 1.9,
+      "title": "台中市長民調／僅差1.9個百分點　何欣純支持度32.4%、江啟臣34.3% - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ycHRwWVVpVm1jSEFnNGFwbkhwSDJZMG1TYkhqWjB4SWEyRm1xUDhJWUJObUVxQW9FV250NVV3Q3JSNXpwSlkwX3RoTGY5VkxmVWhxemtQQWNfaXVmbHfSAUtBVV95cUxNdkh6cUJQSmhwX0lBQjVPU2ZrT28xZGphSF9RSk9WNjJVTWV1TXI0NXpOYjhDbkhKYU1qTElRbTY5eWdiWDJXTVN0elk?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺中市",
+      "source": "TVBS",
+      "media": "TVBS新聞網",
+      "date": "2026-10-18",
+      "values": {
+        "江啟臣": 39.8,
+        "何欣純": 28.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "何欣純",
+        "江啟臣"
+      ],
+      "gap": 11.0,
+      "title": "藍營民調／台中市長之爭！江啟臣39.8%勝何欣純「差距11％」 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fQnBMQ09acVViNmgwWWxiM2ZsTm5HNUhBLV9nTXBWUzg3UWwtV3dya2lXZW9xOF9ONGNvRTRoQWltcmRoSi1QNzl4NzF0bzNNc2Zz?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺中市",
+      "source": "CTWANT",
+      "media": "CTWANT",
+      "date": "2026-10-21",
+      "values": {
+        "江啟臣": 39.8,
+        "何欣純": 28.7
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "何欣純",
+        "江啟臣"
+      ],
+      "gap": 11.1,
+      "title": "台中市長民調出爐！江啟臣39.8%領先何欣純11.1個百分點　國民黨團：將持續爭取支持 | 政治 | CTWANT - CTWANT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XbVQ1b3ZGSEtfTndWeV9zVzJLRW5rRk50eVBmOEZCM283WWJIWWxJeEhrNU5WVFJsc0U0cWx3Ri1IbzI2NlM2TnlNUjlOOWvSAVRBVV95cUxNc2dfMDRTSzhBVUQycG02a1JpUmh0Y3BTZXB5M1Jwak51SWtLQzVVc2c2ajBSOTB0d3RTNWd0akI1M2RLNzFidm1jb0JGeTJpaXhFUU4?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺中市",
+      "source": "Facebook",
+      "media": "Facebook",
+      "date": "2026-10-24",
+      "values": {
+        "何欣純": 28.7,
+        "江啟臣": 39.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "何欣純",
+        "江啟臣"
+      ],
+      "gap": 11.1,
+      "title": "【台中市長選舉民調出爐 江啟臣支持度39.8%、何欣純28.7%】 （#大表哥） - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQRFFoX0V4ZUFMakJ0TktVX2NYdGttWXB5ZXBJUzFpajFvQkFtblI4b2pxc0sxSUFUMzJWaGRZV05LVl9YS2NRZjQ1Z0RnalhOUXAzcDRzZjRpZjZxQnRtdlRpMnU0TlJmbmRtOFFfWS1Eczh0UE83OVBrMVMzRFpBb0NhMFdGd2o0T1o4OGZVMmJmMnZzWjN0NVJhYnhPTGh6dm93bmRlTFY2UzRjUEY3aUlIV3hjY2VDVGdkbk5YcG11WEoySlhPeDZHXy0zM3NwWGJBT3RIUGxYNG5pZ3Y5R0ZBUTJwLUQxcnRyVXhhNFlfcGFQZkV2ekV1aWNHY1FqUXM2ckU0MjJKSmEzRF9OU2VXVUg4VklDYlZqZXJ6VlFCRF9DS0xjaXRVSjRuWHVEMkd2MTUyTFBqblJjMlpnaHN2dVhpYzhxOGVtVXNKY19Bc3BTdm9jUXIwSFZEYXlBbEE1Ylh0eUdjZEh1OXNLOUowSlBuR2NRSmc?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺中市",
+      "source": "ETtoday",
+      "media": "ETtoday新聞雲",
+      "date": "2026-10-24",
+      "values": {
+        "何欣純": 28.7,
+        "江啟臣": 39.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "何欣純",
+        "江啟臣"
+      ],
+      "gap": 11.1,
+      "title": "台中市長選舉民調出爐　江啟臣支持度39.8%、何欣純28.7% - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpd1B1MGxfY0MwcGdOcTFuMnZ5X0JraUV1OGQ2WVl5MDBoX1pWQnU3TkQtb2VNWDFjeDh0RGhMaTlMV28yVVBNYk54ZXZvamJMNGtlUUdaQ2dLbnp4aFHSAUtBVV95cUxQT3NaeFNNSm9zRGdIcXY4VG00N1ZJLXpRSnFPTlZ2ZHkwaVZZU2hSVFJFSVo3c19rWVE2TG1MRnZPY1V5VXVTZlp0aXM?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺中市",
+      "source": "台視新聞網",
+      "media": "台視新聞網",
+      "date": "2026-11-09",
+      "values": {
+        "江啟臣": 39.2,
+        "何欣純": 30.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "何欣純",
+        "江啟臣"
+      ],
+      "gap": 9.2,
+      "title": "臺中市長最新民調！江啟臣39.2%領先何欣純9.2個百分點 - 台視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wbTZCay1kUnRFQkZnY1A4emZSUmRjc242allNdjdFeDBqb0hhdnl1X2U2OFBnTElZWGZLTFFZOW1XVWdxX2N5b3llcGxnZDB0akFjVGRRMA?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺中市",
+      "source": "TVBS",
+      "media": "TVBS新聞網",
+      "date": "2026-11-09",
+      "values": {
+        "江啟臣": 39.2,
+        "何欣純": 30.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "何欣純",
+        "江啟臣"
+      ],
+      "gap": 9.2,
+      "title": "藍營民調／台中市長之爭！江啟臣39.2％領先何欣純9.2個百分點 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DanFTX0hDQTZTbW9LSDBNb0ExdWN4VlZiWk16SGdOY2RjcC1jTzlrZzdlUldKeDdOZTFFUVZVOVNDNktjRXJ2cWVLNHFORWc1QWs0?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺北市",
+      "source": "TVBS",
+      "media": "UDN",
+      "date": "2026-10-08",
+      "values": {
+        "沈伯洋": 41.0,
+        "蔣萬安": 49.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "gap": 8.0,
+      "title": "台北市長選戰白熱化！TVBS最新民調公布 蔣萬安支持度49%、沈伯洋41% - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05TjI4ZVZXVkdtbTlwQWFrNVpfZm95d3pqM2JOcGpZX0k1TzFQNjhqdnY1V3Fra2lPR1pmd25NUVJ4Tlp6WnNoMU5EZWJSLW1PZ05n0gFYQVVfeXFMT0p6OXZVdzlDVlE3SjBxNmtmTnRLMXVhaVNDcVVqeG5VdGZHakZOOGYwdGlTeERVQ0VRU2RjanN5V2VRc21LOFNqeFZOTV93TU4tMmJ4MGE5aQ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺北市",
+      "source": "TVBS",
+      "media": "TVBS新聞網",
+      "date": "2026-10-08",
+      "values": {
+        "沈伯洋": 41.0,
+        "蔣萬安": 49.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "gap": 8.0,
+      "title": "TVBS台北市長民調／蔣萬安49％、沈伯洋41％ 差距從28％緊咬至8％ - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Na1Jqbk15Nkx3alFnVjgtczdJM0ZBVDQ2OUNYQ0JtYS1DcUd0LVh2aXpVX2xnQWZYSUxqSVBTS0xqZ1RnamZfMGoyQlhzNUE3QlUw?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺北市",
+      "source": "TVBS",
+      "media": "Yahoo新聞",
+      "date": "2026-10-08",
+      "values": {
+        "沈伯洋": 41.0,
+        "蔣萬安": 49.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "gap": 8.0,
+      "title": "TVBS最新台北市長民調 蔣萬安支持度49%、沈伯洋41% - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQQUhncG80ckVXZnpGd1UtSjRxM0NfZjVmSUhnNEdURUtDRE1tVHM1RWJMcG9nREl0dXo0dU9DeXRLN0tvNzB6MnpuSDVkbXIzbVh4TDhrdjZsUG9TOG1TVFpqUmVndGtySEFUUnMzUUlrUWRNaDFKdGlJdF9zX0t2Z0Z6UmFSdlg3Q0dKWjlkRjIxVXlpSzUxZjdxbGRhTDRGR3lMd0VPX3lqTjFKVkZKX0daakFDRGlIaVNMcUNQeFNCeHZzSkdrYUxfSmd5WFBFbzU3WXhpSEV2d19XRlkzN010SmJEZzY3NlVaVmlwN05xSGg5dTJVUTRCSS10bExfb29zaElxVUQyS0NYdzVydVlYZnNqcDNhdDlpVTZPY055TWV1UmNoZGEtVzkzOEdzZ0hoUEVrYw?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺北市",
+      "source": "TVBS",
+      "media": "Taiwan News",
+      "date": "2026-10-09",
+      "values": {
+        "沈伯洋": 41.0,
+        "蔣萬安": 49.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "gap": 8.0,
+      "title": "TVBS台北市長10月民調 蔣萬安支持度49%、沈伯洋41% - Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tVTJuZ3dqYnhtNGsydmppdHdZWGpCUHJqcFRoYVNkOVZpSXVmRHVKeFBxcDdQMXpOcHVPYjdFaVc3RzM1c2l4VFdXUF9sNERuNUZ4WHRsV2c?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺北市",
+      "source": "戴立安",
+      "media": "Yahoo新聞",
+      "date": "2026-10-19",
+      "values": {
+        "沈伯洋": 50.3,
+        "蔣萬安": 33.3
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "gap": 17.0,
+      "title": "【戴立安民調】信民協會最新台北市長民調揭曉 沈伯洋50.3%領先蔣萬安17個百分點 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNbjRCRkpGRGFlMzhXNV9QZXFDZEpRYmhWZWdFcTV0LW1kdkdnVEdYcG5jUmJFMndRSHJOdlBEdC1jQ1ctUlY4Tlc1NXMtaXB3TWpHS0d5UF9MN0JZMmFGbUlXMXFXazRfcG1fRm1CSEM0UlJ2cFBJNEs0NDZ6UDRMVnhpQS1wSnV5eHl0TzEzSEc3ODMtbVkzZXR3YmJiNDQ3SjhxOHNlcDN3bVdsaS1GSHdCSnludzZQVnB4N0MtYzNEX2FDb3AxTV9hSTlJWF94QUFUM0dMMTZ3M29HUjhreWgtM093YWVNN3dYWk85VmEtMHp4OFE4N3ZaZ2RkNlJyd184QnlOY0NWYlBPR2VGb3F6cVcxMm5zZ3NLbXU2TW1HOEpITmdPMFlZQm9hZ1JnZ3pKYkFOYTBqaGJMU2NtVVZGMFRnbkY1bVlRQkxPOFVDR0x6bDRrcG9NTmRaSURTMlpaNDl4NkVNajc1emM4M0ZsV1M0MVFQd0RJTzR2SjVoRkhfaURrTVFjSnpMN3o1ZGZ0U0JnZFFxY1NpNE4xTS1aaUtYQVJCMTB5Nm02U3lQNzNBZnYwaElkZm5tX2NwRl94RmVSMXVqeWR0azFVVDl1NFJaenJuTDFXZkNkVXU2SC15aXNZ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺北市",
+      "source": "戴立安",
+      "media": "今周刊",
+      "date": "2026-10-20",
+      "values": {
+        "沈伯洋": 50.3,
+        "蔣萬安": 33.3
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "gap": 17.0,
+      "title": "戴立安民調／沈伯洋支持度50.3%超車蔣萬安33.3%，差距哪來的？民調首次黃金交叉，「誰當選機會最大」結果曝光 - 今周刊",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNVBxdVJpR1RXTUV4Y1VHcUZKa3Z2dFluREktLUhKXzg3ZmtKcktGSkkwdncxTV9feElCTjJBZEFOOUhEY1dlMlBwZi1BaXJma1Btd0tVOEN0V3Z5T0VFVXYwckZ0Ml9fS3pMX0hOVnYzUkp4eXNMSnBCbEZyTUp0Vg?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺北市",
+      "source": "UDN",
+      "media": "UDN",
+      "date": "2026-10-22",
+      "values": {
+        "沈伯洋": 42.8,
+        "蔣萬安": 39.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "gap": 3.8,
+      "title": "震傳媒民調／沈伯洋42.8百分點、蔣萬安39百分點 黃珊珊支持者破5成改投沈 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fWENUY3UwZVllRWxwTkxFVS1OUlNuTmVZRzlYd2NDUWtCNVJ4NzZvajlDNGZ6S0R4Y0V0QUNKU0I4YWdyUVhybTFueTZXY19Fbmc40gFYQVVfeXFMT003bmN5TlIzOEJOQk45SkhOQ0ZHNzRJYXBvcFRwU1IzRUxjODVhUmJBeG9uSlc0cHR1ZzZIREJSNFNYaFRWS3lsT3l2RjBGUEdNRkl5dFNQNw?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺北市",
+      "source": "Yahoo新聞",
+      "media": "Yahoo新聞",
+      "date": "2026-11-11",
+      "values": {
+        "沈伯洋": 43.1,
+        "蔣萬安": 45.9
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "gap": 2.8,
+      "title": "台北市長最新AI民調出爐！蔣萬安支持度45.9%險勝 沈伯洋43.1% - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQUk5MEdnQndCcVR0TTNjTDI4VEJFc3VBUmZLanJlSkxzWlEybFo1NDlLbGJrdlVrNnRMU2hfVlpGRF9wYmcxTlVpS2M1czQ4b0EwVi1HT0FSdGVpYTA4ZmItRUhRZnVURTd6XzJHbnZzdG5VMEtYZmYyRlR2a1phTHNIUU14b0VwQ2ZJSWRIcnNJUGM5MjhGcTlIUVB6dlN1WW1udVEzUnZScVo3MGg1Rllvd0tYcVhha29rVk1xUzBSamJmbnU0Z1BQNGhFcE1PNldxZm9IQVAwalNfWkxvU1VZTWc5cGhZb1I1UlJIZkg3UWZBcTFYejFHVEJ2VV9memF2ZFEzNWZCYVBybC1wLVBqZFJST1p5bmpnMVZoTTR3ZTBEUkNrT0NnNGZMbXYzZmcxVk8xRm5HMmQzRGtINllPak5Dbk43M1BOWldOWThlWXY0b1dSOThRdXZrQQ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺南市",
+      "source": "自由時報",
+      "media": "自由時報",
+      "date": "2026-10-21",
+      "values": {
+        "陳亭妃": 59.4,
+        "謝龍介": 36.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "謝龍介",
+        "陳亭妃"
+      ],
+      "gap": 22.6,
+      "title": "台南市長民調：陳亭妃獲59.4％支持 大幅領先謝龍介36.8％ - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXlyWlZ6SDluZzh1WDh2RmNmcFBON0QxQ05ybU1lcE42UHB1MVNiVkoybllqQXp5WmtTSWx2M3dQcFdCeEJGMEJ0SFJ2WFBCQ0xVSEQ1ajNWSFI0Zm15dEltZV9rUGhZVEtpVUd4aDhvYXZzREIxUGUyWUdmamJENlExUTNZZw?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺南市",
+      "source": "上報Up Media",
+      "media": "上報Up Media",
+      "date": "2026-10-21",
+      "values": {
+        "陳亭妃": 59.4,
+        "謝龍介": 36.8
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "謝龍介",
+        "陳亭妃"
+      ],
+      "gap": 22.6,
+      "title": "【最新民調】陳亭妃支持度59.4%輾壓謝龍介22.6% 7成看好當選台南首位女市長 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQS3hJSHJGNW84b3owVnprUHVrS2Z0RHV5bjZUVW9OYkhicGh0bnVreDNsMDNUa1otRlFxaG5peXBBbE5FWlpNM2dxamRjUU1RZzgxTld4M1FjeE0?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺東縣",
+      "source": "ETtoday",
+      "media": "ETtoday新聞雲",
+      "date": "2026-11-07",
+      "values": {
+        "陳瑩": 29.3,
+        "吳秀華": 43.6
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "吳秀華",
+        "陳瑩"
+      ],
+      "gap": 14.3,
+      "title": "ET民調／台東縣長藍綠對決！吳秀華43.6%、陳瑩29.3%　逾兩成選民尚未表態 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XOTV4RWtHbTBub19QeDkxa3hBYU1iR0pNM3hIc0k3VDNtdGRNQmtVYTFjMHNZUjlpRGFNZWhBVjEwRU5PaW5YVHNCSFVCcDJob1NmaWhYSXNaZkRSdEHSAUtBVV95cUxQd1F1ckwwV1B2RXktd0RKdjdPd2pCWmx5T1I2UDVodXJRZHByMUZibmpBeXFhZ1ZaMHhnTlEyYjNnTVVoRXJkbzJ1NlE?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺東縣",
+      "source": "上報Up Media",
+      "media": "上報Up Media",
+      "date": "2026-11-11",
+      "values": {
+        "陳瑩": 31.1,
+        "吳秀華": 35.7
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "吳秀華",
+        "陳瑩"
+      ],
+      "gap": 4.6,
+      "title": "【最新民調】台東縣長陳瑩支持度31.1%直追吳秀華35.7% 差距4.6個百分點 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRmc1WjM2MmJXdFVLMXZMa1RTcWNyTmFEZWJBd0d3ZzNXdE1zVG8yckE4SC1NQlhoVUgyNUg5cmtLX2l4al83QURiblBWU28tdUNfenRfM3JDVjA?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺東縣",
+      "source": "中天新聞網",
+      "media": "中天新聞網",
+      "date": "2026-11-11",
+      "values": {
+        "陳瑩": 31.3,
+        "吳秀華": 35.7
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "吳秀華",
+        "陳瑩"
+      ],
+      "gap": 4.4,
+      "title": "台東縣長選舉最新民調公布！吳秀華35.7% 陳瑩31.3% - 中天新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzSk0yS0dYQmNFQW5QNzRoY3RDeUFHQjNTSkk2d3dBVjBTbm1FVU1MeGs2dEc5WFlFdU9oMk5ueng4SG5uOE5xY2Y2UzNLX2twdWp3?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺東縣",
+      "source": "Yahoo新聞",
+      "media": "Yahoo新聞",
+      "date": "2026-11-11",
+      "values": {
+        "陳瑩": 31.1,
+        "吳秀華": 35.7
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "吳秀華",
+        "陳瑩"
+      ],
+      "gap": 4.6,
+      "title": "台東縣長民調出爐！陳瑩31.1%緊咬吳秀華35.7% - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQ2lFcWk3WncxREJidmVrMkxYTmFBdE1oNUZsZVVHMXl3SEhub0w1a1ZzQ2NRNWd5MG1FdWdlV09EZ004M2NhVmdxWlEzV3ZWRW9panpIcWE2ZXRzOHhGR3lOZEtDT3ZfYjFIcjktNW1pZFVWa1pjcm4wN2Z1VDVBWkZ4MHoyRWZqbFVfQWprbkdxRVFoSnotcHYzalpGVFBEZzAxZlJnOGo2Nl8yc0kxRjQ0M1ZndjhLTEs4Z0R6U1hObU1ubnFtM0l6U3pIeUdGOXg4N1NHbXcwQVVWYzA5UW4xaUJDNlNpRmxsTWdlOWs5RW92b0ljczhGMkFEY1F3WTRrTGVYQ1ZEWmd3MXBlZ0s3MTc?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "臺東縣",
+      "source": "壹電視",
+      "media": "壹電視",
+      "date": "2026-11-12",
+      "values": {
+        "陳瑩": 31.1,
+        "吳秀華": 35.7
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "吳秀華",
+        "陳瑩"
+      ],
+      "gap": 4.6,
+      "title": "台東最新民調！ 陳瑩31.1%緊追吳秀華35.7% - 壹電視",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPalltVlZRRlhuU2dYZFlhOFk2cTBQNU1EbVhRWUMtWFkxVV9maF9sUGVfWEQzdGM1R2MtUGF5bTZ5aU9HRXRZekpJNjhHVWdWSEVnUHNDbHFnVjVqTXpjX1BkTnRVRW5hMHdnbnM0RFdJVnoxeEtXZkFmN196UlF6dg?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "花蓮縣",
+      "source": "樂聯網",
+      "media": "樂聯網",
+      "date": "2026-11-03",
+      "values": {
+        "游淑貞": 28.5,
+        "張峻": 25.7
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "張峻",
+        "游淑貞"
+      ],
+      "gap": 2.8,
+      "title": "花蓮縣長最新民調出爐！游淑貞28.5%微幅領先張峻25.7% 近3成選民未表態 - 樂聯網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sZDJWeUZKckhRUHpFNTkwNW1pNnpJVkNOQjZEaGVYODZwdzQwRlVydkM2TXNsMURyVlZZX3QzYjlGT1lXd19XUmpaWQ?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "高雄市",
+      "source": "聯合報",
+      "media": "UDN",
+      "date": "2026-11-02",
+      "values": {
+        "賴瑞隆": 40.0,
+        "柯志恩": 33.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "柯志恩",
+        "賴瑞隆"
+      ],
+      "gap": 7.0,
+      "title": "聯合報民調／高雄激戰 辯論前支持度柯志恩33%緊追賴瑞隆40% - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEZEFpUVVhMGs0bDJHVDhmZDN3YWtTLXJOa2JidWQxc2w4SUJmZEpTZXcyR0tNX0ZSVGt5MnV4VFF2OUZ2aEZGaHY0SjI3dE1XV2E2Nlg0eWk?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    },
+    {
+      "region": "高雄市",
+      "source": "LINE TODAY",
+      "media": "LINE TODAY",
+      "date": "2026-11-11",
+      "values": {
+        "賴瑞隆": 47.6,
+        "柯志恩": 42.0
+      },
+      "lead": "",
+      "chase": "",
+      "matchup": [
+        "柯志恩",
+        "賴瑞隆"
+      ],
+      "gap": 5.6,
+      "title": "AI民意模擬高雄市選戰／賴瑞隆支持度47.6%、柯志恩42.0% 差距5.6個百分點 | 鏡新聞 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zd2tZZjZ0czBwa2dRb3NXRm1nR0ZVZ3g4WHNIU2Z3V0JtUEQ0NFBydFQxMnh4bTNPcWNMakROSTZQTV9WQlFpQnE3aGpCQkNFZktsTnd3?oc=5",
+      "kind": "matchup",
+      "tier": "media"
+    }
+  ]
+}

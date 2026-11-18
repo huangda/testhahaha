@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "verified_at": "2026-10-30",
+    "method": "公开 YouTube 频道搜索；频道名称必须包含候选人完整姓名或明确英文名",
+    "note": "当前只登记可核验的 YouTube 账号。Facebook、Instagram、Threads、X、LINE 等未取得官方 API 或可靠认证时不自动抓取。",
+    "accounts": 7
+  },
+  "accounts": [
+    {
+      "candidate": "蔣萬安",
+      "platform": "youtube",
+      "account_name": "蔣萬安",
+      "account_id": "UC9EWrkZoT3agfx45s6FdVtQ",
+      "url": "https://www.youtube.com/channel/UC9EWrkZoT3agfx45s6FdVtQ",
+      "verified": true,
+      "verification": "频道名包含候选人完整姓名",
+      "enabled": true
+    },
+    {
+      "candidate": "沈伯洋",
+      "platform": "youtube",
+      "account_name": "沈伯洋Puma",
+      "account_id": "UC49EKUpNvS_fzdk5SKvipQg",
+      "url": "https://www.youtube.com/channel/UC49EKUpNvS_fzdk5SKvipQg",
+      "verified": true,
+      "verification": "频道名包含候选人完整姓名，频道搜索显示认证标记",
+      "enabled": true
+    },
+    {
+      "candidate": "李四川",
+      "platform": "youtube",
+      "account_name": "李四川 Hammer Lee",
+      "account_id": "UCfS5UhHzM8rjH5DnYuVCw5w",
+      "url": "https://www.youtube.com/channel/UCfS5UhHzM8rjH5DnYuVCw5w",
+      "verified": true,
+      "verification": "频道名包含候选人完整姓名",
+      "enabled": true
+    },
+    {
+      "candidate": "何欣純",
+      "platform": "youtube",
+      "account_name": "何欣純",
+      "account_id": "UCvUV3Av_wV626FB1-ltmoLQ",
+      "url": "https://www.youtube.com/channel/UCvUV3Av_wV626FB1-ltmoLQ",
+      "verified": true,
+      "verification": "频道名包含候选人完整姓名",
+      "enabled": true
+    },
+    {
+      "candidate": "謝國樑",
+      "platform": "youtube",
+      "account_name": "謝國樑",
+      "account_id": "UCmDcMkSjhyj2R91z0FlGjAA",
+      "url": "https://www.youtube.com/channel/UCmDcMkSjhyj2R91z0FlGjAA",
+      "verified": true,
+      "verification": "频道名包含候选人完整姓名",
+      "enabled": true
+    },
+    {
+      "candidate": "柯志恩",
+      "platform": "youtube",
+      "account_name": "柯志恩",
+      "account_id": "UCGK-Tc98y8XgFPfibokbuNQ",
+      "url": "https://www.youtube.com/channel/UCGK-Tc98y8XgFPfibokbuNQ",
+      "verified": true,
+      "verification": "频道名包含候选人完整姓名",
+      "enabled": true
+    },
+    {
+      "candidate": "賴瑞隆",
+      "platform": "youtube",
+      "account_name": "賴瑞隆",
+      "account_id": "UCZeQQkX0zGSEDatM1T8h36g",
+      "url": "https://www.youtube.com/channel/UCZeQQkX0zGSEDatM1T8h36g",
+      "verified": true,
+      "verification": "频道名包含候选人完整姓名",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "note": "enabled=false 可停用；weight 用於多來源同題去重時的排序。"
+  },
+  "feeds": [
+    {
+      "id": "google-news-tw",
+      "name": "Google 新聞（台灣繁中）",
+      "url_template": "https://news.google.com/rss/search?q={q}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "kind": "google_news",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 1.0
+    },
+    {
+      "id": "google-news-cn",
+      "name": "Google 新聞（中國簡中）",
+      "url_template": "https://news.google.com/rss/search?q={q}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "kind": "google_news",
+      "lang": "zh-Hans",
+      "enabled": true,
+      "weight": 0.8
+    },
+    {
+      "id": "google-news-tw-sources",
+      "name": "Google 新聞（台灣主流媒體限定）",
+      "url_template": "https://news.google.com/rss/search?q={q}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "kind": "google_news",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 1.0,
+      "queries": [
+        "site:udn.com 九合一",
+        "site:chinatimes.com 九合一",
+        "site:news.tvbs.com.tw 選舉",
+        "site:setn.com 選舉",
+        "site:ftvnews.com.tw 選舉",
+        "site:news.ebc.net.tw 選舉",
+        "site:news.pts.org.tw 選舉",
+        "site:news.ttv.com.tw 選舉",
+        "site:news.cts.com.tw 選舉",
+        "site:mirrordaily.news 選舉",
+        "site:mirrormedia.mg 選舉",
+        "site:ctitv.com.tw 選舉",
+        "site:newtalk.tw 2026 選舉",
+        "site:storm.mg 2026 選舉"
+      ]
+    },
+    {
+      "id": "google-news-priority-councils",
+      "name": "Google 新聞（新北宜蘭選區重點檢索）",
+      "url_template": "https://news.google.com/rss/search?q={q}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "kind": "google_news",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 1.0,
+      "priority_local_candidates": true
+    },
+    {
+      "id": "google-news-en",
+      "name": "Google News (English)",
+      "url_template": "https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en",
+      "kind": "google_news",
+      "lang": "en",
+      "enabled": false,
+      "weight": 0.6
+    },
+    {
+      "id": "cna-politics",
+      "name": "中央社 CNA 政治",
+      "url": "https://feeds.feedburner.com/rsscna/politics",
+      "kind": "rss",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 1.2
+    },
+    {
+      "id": "pts-news-official",
+      "name": "公視新聞",
+      "url": "https://news.pts.org.tw/xml/newsfeed.xml",
+      "kind": "rss",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 1.2
+    },
+    {
+      "id": "udn-official",
+      "name": "UDN 聯合報",
+      "url": "https://udn.com/news/rssfeed",
+      "kind": "rss",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 0.95
+    },
+    {
+      "id": "cna-local",
+      "name": "中央社 CNA 地方",
+      "url": "https://feeds.feedburner.com/rsscna/local",
+      "kind": "rss",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 1.15
+    },
+    {
+      "id": "cna-society",
+      "name": "中央社 CNA 社會",
+      "url": "https://feeds.feedburner.com/rsscna/social",
+      "kind": "rss",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 0.9
+    },
+    {
+      "id": "cna-cross-strait",
+      "name": "中央社 CNA 兩岸",
+      "url": "https://feeds.feedburner.com/rsscna/mainland",
+      "kind": "rss",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 0.9
+    },
+    {
+      "id": "ltn-politics",
+      "name": "自由時報 政治",
+      "url": "https://news.ltn.com.tw/rss/politics.xml",
+      "kind": "rss",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 1.1
+    },
+    {
+      "id": "ltn-all",
+      "name": "自由時報 全部",
+      "url": "https://news.ltn.com.tw/rss/all.xml",
+      "kind": "rss",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 1.0
+    },
+    {
+      "id": "ettoday-realtime",
+      "name": "ETtoday 即時新聞",
+      "url": "https://feeds.feedburner.com/ettoday/realtime",
+      "kind": "rss",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 1.0
+    },
+    {
+      "id": "yahoo-tw-politics",
+      "name": "Yahoo 奇摩新聞 政治",
+      "url": "https://tw.news.yahoo.com/rss/politics",
+      "kind": "rss",
+      "lang": "zh-Hant",
+      "enabled": true,
+      "weight": 0.9
+    }
+  ],
+  "priority_local_candidates": [
+    {
+      "region": "新北市",
+      "name": "蔣根煌",
+      "district": "新北市第3選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "新北市",
+      "name": "陳錦錠",
+      "district": "新北市第6選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "新北市",
+      "name": "陳鴻源",
+      "district": "新北市第7選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "新北市",
+      "name": "林國春",
+      "district": "新北市第5選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "新北市",
+      "name": "洪佳君",
+      "district": "新北市第8選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "新北市",
+      "name": "黃桂蘭",
+      "district": "新北市第4選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "新北市",
+      "name": "鄭宇恩",
+      "district": "新北市第1選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "新北市",
+      "name": "李倩萍",
+      "district": "新北市第4選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "新北市",
+      "name": "許昭興",
+      "district": "新北市第7選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "新北市",
+      "name": "戴瑋姍",
+      "district": "新北市第5選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "新北市",
+      "name": "卓冠廷",
+      "district": "新北市第8選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "新北市",
+      "name": "陳乃瑜",
+      "district": "新北市第9選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "張勝德",
+      "district": "宜蘭縣第1選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "林岳賢",
+      "district": "宜蘭縣第1選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "黃浴沂",
+      "district": "宜蘭縣第4選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "陳漢鍾",
+      "district": "宜蘭縣第6選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "黃建勇",
+      "district": "宜蘭縣第5選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "黃琤婷",
+      "district": "宜蘭縣第6選舉區",
+      "party": "中國國民黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "林麗",
+      "district": "宜蘭縣第1選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "林詩穎",
+      "district": "宜蘭縣第2選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "呂惠卿",
+      "district": "宜蘭縣第6選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "薛呈懿",
+      "district": "宜蘭縣第6選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "張明華",
+      "district": "宜蘭縣第7選舉區",
+      "party": "民主進步黨"
+    },
+    {
+      "region": "宜蘭縣",
+      "name": "林佩螢",
+      "district": "宜蘭縣第8選舉區",
+      "party": "民主進步黨"
+    }
+  ],
+  "queries": [
+    "九合一",
+    "縣市長選舉",
+    "2026 地方選舉",
+    "縣市長 民調",
+    "縣市長 提名",
+    "市長選舉 民調",
+    "九合一 選情",
+    "2026 九合一 造勢",
+    "縣市長 候選人 政見",
+    "縣市議員 選舉",
+    "六都 市議員 選舉",
+    "議員 候選人 政見",
+    "議員 民調 選情",
+    "縣市議員 提名 初選",
+    "鄉鎮市長 選舉",
+    "村里長 選舉",
+    "2026 地方選舉 政黨 提名",
+    "2026 地方選舉 藍白 合作",
+    "六都 選舉 民調",
+    "地方選舉 掃街 拜票"
+  ],
+  "election_keywords": [
+    "九合一", "縣市長", "市长选举", "市長選舉", "縣長選舉", "县长选举",
+    "提名", "初選", "初选", "民調", "民调", "造勢", "造势", "競選", "竞选",
+    "候選人", "候选人", "當選", "当选", "投票", "選舉", "选举", "輔選", "辅选",
+    "政見", "政见", "罷免", "罢免", "黨內", "党内", "徵召", "征召",
+    "議員", "议员", "直轄市長", "直辖市长", "鄉鎮市長", "乡镇市长",
+    "選戰", "选战",
+    "村里長", "村里长", "掃街", "扫街", "拜票"
+  ],
+  "strong_election_keywords": [
+    "九合一", "县市长", "直辖市长", "市长选举", "县长选举",
+    "议员选举", "市议员", "县议员", "地方选举", "乡镇市长",
+    "村里长", "六都"
+  ],
+  "taiwan_exclusive_election_keywords": [
+    "九合一", "县市长", "直辖市长", "乡镇市长", "村里长", "六都"
+  ],
+  "taiwan_context_keywords": [
+    "台湾", "全台", "22县市", "中选会", "中央选举委员会",
+    "台北", "新北", "桃园", "台中", "台南", "高雄",
+    "基隆", "新竹", "苗栗", "彰化", "南投", "云林",
+    "嘉义", "屏东", "宜兰", "花莲", "台东", "澎湖",
+    "金门", "连江", "马祖"
+  ]
+}

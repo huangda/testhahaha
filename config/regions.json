@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "election": "2026 年中華民國地方公職人員選舉（九合一）",
+    "election_date": "2026-11-28",
+    "scope": "22 縣市長（直轄市長 / 縣市長）",
+    "polymarket_tag": "taiwan-elections",
+    "note": "polymarket_slug 可留空，程式會用 tag 自動比對；填寫則強制使用指定 event。"
+  },
+  "regions": [
+    {
+      "code": "TPE",
+      "type": "mayor",
+      "name": "臺北市",
+      "aliases": ["台北市", "台北", "臺北", "Taipei", "Taipei City"],
+      "polymarket_slug": "taipei-mayor-election-winner-20260813125857100"
+    },
+    {
+      "code": "NTPC",
+      "type": "mayor",
+      "name": "新北市",
+      "aliases": ["新北", "New Taipei", "New Taipei City"],
+      "polymarket_slug": "new-taipei-mayor-election-winner-20260813125857200"
+    },
+    {
+      "code": "TYN",
+      "type": "mayor",
+      "name": "桃園市",
+      "aliases": ["桃园市", "桃園", "桃园", "Taoyuan", "Taoyuan City"],
+      "polymarket_slug": "taoyuan-mayor-election-winner-20260813125857300"
+    },
+    {
+      "code": "TXG",
+      "type": "mayor",
+      "name": "臺中市",
+      "aliases": ["台中市", "台中", "臺中", "Taichung", "Taichung City"],
+      "polymarket_slug": "taichung-mayor-election-winner-20260813125857400"
+    },
+    {
+      "code": "TNN",
+      "type": "mayor",
+      "name": "臺南市",
+      "aliases": ["台南市", "台南", "臺南", "Tainan", "Tainan City"],
+      "polymarket_slug": "tainan-mayor-election-winner-20260813125857500"
+    },
+    {
+      "code": "KHH",
+      "type": "mayor",
+      "name": "高雄市",
+      "aliases": ["高雄", "Kaohsiung", "Kaohsiung City"],
+      "polymarket_slug": "kaohsiung-mayor-election-winner-20260813125857600"
+    },
+    {
+      "code": "KEL",
+      "type": "mayor",
+      "name": "基隆市",
+      "aliases": ["基隆", "Keelung"],
+      "polymarket_slug": "keelung-mayor-election-winner-20260813135716100"
+    },
+    {
+      "code": "HSC",
+      "type": "mayor",
+      "name": "新竹市",
+      "aliases": ["新竹市", "Hsinchu City"],
+      "polymarket_slug": "hsinchu-city-mayor-election-winner-20260813135716400"
+    },
+    {
+      "code": "CYI",
+      "type": "mayor",
+      "name": "嘉義市",
+      "aliases": ["嘉义市", "嘉義市", "Chiayi City"],
+      "polymarket_slug": "chiayi-city-mayor-election-winner-202608131357161000"
+    },
+    {
+      "code": "HSQ",
+      "type": "magistrate",
+      "name": "新竹縣",
+      "aliases": ["新竹县", "新竹縣", "Hsinchu County"],
+      "polymarket_slug": "hsinchu-county-magistrate-election-winner-20260813135716300"
+    },
+    {
+      "code": "MIA",
+      "type": "magistrate",
+      "name": "苗栗縣",
+      "aliases": ["苗栗县", "苗栗", "Miaoli", "Miaoli County"],
+      "polymarket_slug": "miaoli-county-magistrate-election-winner-20260813135716500"
+    },
+    {
+      "code": "CHA",
+      "type": "magistrate",
+      "name": "彰化縣",
+      "aliases": ["彰化县", "彰化", "Changhua", "Changhua County"],
+      "polymarket_slug": "changhua-county-magistrate-election-winner-20260813135716600"
+    },
+    {
+      "code": "NTO",
+      "type": "magistrate",
+      "name": "南投縣",
+      "aliases": ["南投县", "南投", "Nantou", "Nantou County"],
+      "polymarket_slug": "nantou-county-magistrate-election-winner-20260813135716700"
+    },
+    {
+      "code": "YUN",
+      "type": "magistrate",
+      "name": "雲林縣",
+      "aliases": ["云林县", "雲林", "云林", "Yunlin", "Yunlin County"],
+      "polymarket_slug": "yunlin-county-magistrate-election-winner-20260813135716800"
+    },
+    {
+      "code": "CYQ",
+      "type": "magistrate",
+      "name": "嘉義縣",
+      "aliases": ["嘉义县", "嘉義縣", "Chiayi County"],
+      "polymarket_slug": "chiayi-county-magistrate-election-winner-20260813135716900"
+    },
+    {
+      "code": "PIF",
+      "type": "magistrate",
+      "name": "屏東縣",
+      "aliases": ["屏东县", "屏東", "屏东", "Pingtung", "Pingtung County"],
+      "polymarket_slug": "pingtung-county-magistrate-election-winner-202608131357161100"
+    },
+    {
+      "code": "ILA",
+      "type": "magistrate",
+      "name": "宜蘭縣",
+      "aliases": ["宜兰县", "宜蘭", "宜兰", "Yilan", "Yilan County"],
+      "polymarket_slug": "yilan-county-magistrate-election-winner-20260813135716200"
+    },
+    {
+      "code": "HUN",
+      "type": "magistrate",
+      "name": "花蓮縣",
+      "aliases": ["花莲县", "花蓮", "花莲", "Hualien", "Hualien County"],
+      "polymarket_slug": "hualien-county-magistrate-election-winner-202608131357161200"
+    },
+    {
+      "code": "TTT",
+      "type": "magistrate",
+      "name": "臺東縣",
+      "aliases": ["台东县", "臺東縣", "台東", "台东", "Taitung", "Taitung County"],
+      "polymarket_slug": "taitung-county-magistrate-election-winner-202608131357161300"
+    },
+    {
+      "code": "PEN",
+      "type": "magistrate",
+      "name": "澎湖縣",
+      "aliases": ["澎湖县", "澎湖", "Penghu", "Penghu County"],
+      "polymarket_slug": "penghu-county-magistrate-election-winner-202608131357161400"
+    },
+    {
+      "code": "KIN",
+      "type": "magistrate",
+      "name": "金門縣",
+      "aliases": ["金门县", "金門", "金门", "Kinmen", "Kinmen County"],
+      "polymarket_slug": "kinmen-county-magistrate-election-winner-202608131357161500"
+    },
+    {
+      "code": "LNN",
+      "type": "magistrate",
+      "name": "連江縣",
+      "aliases": ["连江县", "連江", "连江", "馬祖", "马祖", "Lienchiang", "Matsu", "Lienchiang County"],
+      "polymarket_slug": "lienchiang-county-magistrate-election-winner-202608131357161600"
+    }
+  ],
+  "nationwide": {
+    "code": "TW",
+    "name": "全島",
+    "aliases": ["台灣", "台湾", "全國", "全国", "Taiwan", "全台", "全臺"],
+    "polymarket_slug": "2026-taiwanese-local-elections-party-winner"
+  }
+}

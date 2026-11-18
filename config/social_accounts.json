@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "verified_at": "2026-11-09",
+    "method": "TikHub平台账号搜索；认证标记、完整姓名、跨平台同名或明确竞选账号说明至少满足两项。",
+    "note": "仅启用高置信度账号；未通过核验的账号不抓取。"
+  },
+  "accounts": [
+    {
+      "candidate": "蘇巧慧",
+      "region": "新北市",
+      "platform": "threads",
+      "account_name": "蘇巧慧",
+      "username": "su.chiaohui",
+      "account_id": "63447798401",
+      "verified": true,
+      "verification": "平台认证，Threads与Instagram同名且完整姓名一致",
+      "enabled": true
+    },
+    {
+      "candidate": "蘇巧慧",
+      "region": "新北市",
+      "platform": "instagram",
+      "account_name": "蘇巧慧",
+      "username": "su.chiaohui",
+      "account_id": "8544006",
+      "verified": true,
+      "verification": "平台认证，Threads与Instagram同名且完整姓名一致",
+      "enabled": true
+    },
+    {
+      "candidate": "李四川",
+      "region": "新北市",
+      "platform": "threads",
+      "account_name": "李四川Hammer Lee",
+      "username": "hammer__lee",
+      "account_id": "30132226944",
+      "verified": false,
+      "verification": "Threads与Instagram同名、完整姓名一致，并与YouTube官方频道名称一致",
+      "enabled": true
+    },
+    {
+      "candidate": "李四川",
+      "region": "新北市",
+      "platform": "instagram",
+      "account_name": "李四川Hammer Lee",
+      "username": "hammer__lee",
+      "account_id": "26940503098",
+      "verified": false,
+      "verification": "Threads与Instagram同名、完整姓名一致，并与YouTube官方频道名称一致",
+      "enabled": true
+    },
+    {
+      "candidate": "林國漳",
+      "region": "宜蘭縣",
+      "platform": "threads",
+      "account_name": "林國漳",
+      "username": "lin.kuo.chang",
+      "account_id": "77866587198",
+      "verified": true,
+      "verification": "平台认证，Threads与Instagram同名且完整姓名一致",
+      "enabled": true
+    },
+    {
+      "candidate": "林國漳",
+      "region": "宜蘭縣",
+      "platform": "instagram",
+      "account_name": "林國漳",
+      "username": "lin.kuo.chang",
+      "account_id": "77870794547",
+      "verified": true,
+      "verification": "平台认证，Threads与Instagram同名且完整姓名一致",
+      "enabled": true
+    },
+    {
+      "candidate": "陳宏毅",
+      "region": "宜蘭縣",
+      "platform": "threads",
+      "account_name": "陳宏毅｜2號｜宜蘭縣長候選人",
+      "username": "yilan.chenhungyi.2026",
+      "account_id": "43097484269",
+      "verified": false,
+      "verification": "账号全名明确写明宜兰县长候选人及2号",
+      "enabled": true
+    },
+    {
+      "candidate": "吳宗憲",
+      "region": "宜蘭縣",
+      "platform": "threads",
+      "account_name": "吳宗憲",
+      "username": "jameswu_not_jacky",
+      "account_id": "45218667297",
+      "verified": true,
+      "verification": "平台认证，Threads与Instagram同名且完整姓名一致",
+      "enabled": true
+    },
+    {
+      "candidate": "吳宗憲",
+      "region": "宜蘭縣",
+      "platform": "instagram",
+      "account_name": "吳宗憲",
+      "username": "jameswu_not_jacky",
+      "account_id": "65550493232",
+      "verified": true,
+      "verification": "平台认证，Threads与Instagram同名且完整姓名一致",
+      "enabled": true
+    },
+    {
+      "candidate": "劉燦輝",
+      "region": "宜蘭縣",
+      "platform": "threads",
+      "account_name": "劉燦輝",
+      "username": "tsanhuiliu",
+      "account_id": "73369905244",
+      "verified": false,
+      "verification": "Threads与Instagram同名且完整姓名一致",
+      "enabled": true
+    },
+    {
+      "candidate": "劉燦輝",
+      "region": "宜蘭縣",
+      "platform": "instagram",
+      "account_name": "劉燦輝",
+      "username": "tsanhuiliu",
+      "account_id": "3634286195",
+      "verified": false,
+      "verification": "Threads与Instagram同名且完整姓名一致",
+      "enabled": true
+    },
+    {
+      "candidate": "蘇巧慧",
+      "region": "新北市",
+      "platform": "facebook",
+      "account_name": "蘇巧慧",
+      "username": "chiaohui.su",
+      "account_id": "",
+      "url": "https://www.facebook.com/chiaohui.su/",
+      "verified": true,
+      "verification": "Wikidata P2013 为 chiaohui.su；公开页面名称及追踪人数可核验",
+      "enabled": true
+    },
+    {
+      "candidate": "李四川",
+      "region": "新北市",
+      "platform": "facebook",
+      "account_name": "李四川",
+      "username": "61595807513224",
+      "account_id": "61595807513224",
+      "url": "https://www.facebook.com/p/%E6%9D%8E%E5%9B%9B%E5%B7%9D-61595807513224/",
+      "verified": false,
+      "verification": "Facebook公开搜索结果中的李四川页面ID；正文需Cookie验证",
+      "enabled": true
+    },
+    {
+      "candidate": "林國漳",
+      "region": "宜蘭縣",
+      "platform": "facebook",
+      "account_name": "林國漳",
+      "username": "linkuochang.yilan",
+      "account_id": "61582589525417",
+      "url": "https://www.facebook.com/linkuochang.yilan/",
+      "verified": true,
+      "verification": "候选人官方 Portaly 页面外链；公开页面名称、简介与参选身份一致",
+      "enabled": true
+    },
+    {
+      "candidate": "吳宗憲",
+      "region": "宜蘭縣",
+      "platform": "facebook",
+      "account_name": "吳宗憲",
+      "username": "jameswu88",
+      "account_id": "",
+      "url": "https://www.facebook.com/jameswu88/",
+      "verified": true,
+      "verification": "公开页面简介明确为宜兰县长3号候选人，且与Instagram账号 jameswu_not_jacky 相互关联",
+      "enabled": true
+    }
+  ]
+}

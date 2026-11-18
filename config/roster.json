@@ -1,0 +1,706 @@
+{
+  "meta": {
+    "source": "https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%B0%E6%96%B9%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E9%81%B8%E8%88%89",
+    "official_source": "https://info.cec.gov.tw/vote2026/",
+    "number_source": "2026年中華民國地方公職人員選舉條目所載抽籤號次",
+    "number_updated_at": "2026-10-27",
+    "note": "22縣市長正式登記參選人與抽籤號次；正式候選人名單及號次以中央選舉委員會公告為準。 en 為 Wikidata 英文標籤，用於對接 Polymarket 拼音名。",
+    "regions": 22,
+    "candidates": 81,
+    "updated_at": "2026-10-27"
+  },
+  "regions": {
+    "臺北市": [
+      {
+        "number": 1,
+        "name": "郭璽",
+        "party": "台灣麻將最大黨",
+        "experience": "退役海軍上校",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "林志成",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 3,
+        "name": "沈伯洋",
+        "party": "民主進步黨",
+        "experience": "立法委員",
+        "wikidata": "Q96156873",
+        "en": "Puma Shen"
+      },
+      {
+        "number": 4,
+        "name": "蕭文乾",
+        "party": "台灣SoR無法黨",
+        "experience": "",
+        "wikidata": "Q125473588",
+        "en": ""
+      },
+      {
+        "number": 5,
+        "name": "蔣萬安",
+        "party": "中國國民黨",
+        "experience": "現任市長、前立法委員",
+        "wikidata": "Q15920021",
+        "en": "Chiang Wan-an"
+      },
+      {
+        "number": 6,
+        "name": "唐新民",
+        "party": "三勢團結促進聯盟",
+        "experience": "",
+        "wikidata": "Q114690781",
+        "en": ""
+      }
+    ],
+    "新北市": [
+      {
+        "number": 1,
+        "name": "蘇巧慧",
+        "party": "民主進步黨",
+        "experience": "立法委員",
+        "wikidata": "Q19825781",
+        "en": "Su Chiao-hui"
+      },
+      {
+        "number": 2,
+        "name": "蘇輝湟",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 3,
+        "name": "李四川",
+        "party": "中國國民黨",
+        "experience": "前臺北市副市長；國民黨與民眾黨共同推薦",
+        "wikidata": "Q19849473",
+        "en": "Lee Shu-chuan"
+      }
+    ],
+    "桃園市": [
+      {
+        "number": 1,
+        "name": "黃世杰",
+        "party": "民主進步黨",
+        "experience": "前法務部政務次長、前立法委員",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "張善政",
+        "party": "中國國民黨",
+        "experience": "現任市長、前行政院長、首任科技部部長、前政務委員",
+        "wikidata": "Q10294207",
+        "en": "Simon Chang"
+      }
+    ],
+    "臺中市": [
+      {
+        "number": 1,
+        "name": "何欣純",
+        "party": "民主進步黨",
+        "experience": "立法委員",
+        "wikidata": "Q8348788",
+        "en": "Ho Hsin-chun"
+      },
+      {
+        "number": 2,
+        "name": "洪麗華",
+        "party": "司法正義黨",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 3,
+        "name": "江啟臣",
+        "party": "中國國民黨",
+        "experience": "立法院副院長",
+        "wikidata": "Q8279603",
+        "en": "Johnny Chiang"
+      }
+    ],
+    "臺南市": [
+      {
+        "number": 1,
+        "name": "蕭燐洪",
+        "party": "台灣SoR無法黨",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "謝龍介",
+        "party": "中國國民黨",
+        "experience": "立法委員",
+        "wikidata": "Q8277906",
+        "en": "Hsieh Lung-chieh"
+      },
+      {
+        "number": 3,
+        "name": "陳亭妃",
+        "party": "民主進步黨",
+        "experience": "立法委員",
+        "wikidata": "Q8347820",
+        "en": "Chen Ting-fei"
+      },
+      {
+        "number": 4,
+        "name": "葉人文",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "Q141585730",
+        "en": "Ye Renwen"
+      }
+    ],
+    "高雄市": [
+      {
+        "number": 1,
+        "name": "張靜",
+        "party": "司法改革黨",
+        "experience": "",
+        "wikidata": "Q21073652",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "王肇民",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 3,
+        "name": "柯志恩",
+        "party": "中國國民黨",
+        "experience": "立法委員",
+        "wikidata": "Q28416376",
+        "en": "Ko Chih-en"
+      },
+      {
+        "number": 4,
+        "name": "洪方隆",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 5,
+        "name": "賴瑞隆",
+        "party": "民主進步黨",
+        "experience": "立法委員",
+        "wikidata": "Q19825797",
+        "en": "Lai Jui-lung"
+      }
+    ],
+    "基隆市": [
+      {
+        "number": 1,
+        "name": "童子瑋",
+        "party": "民主進步黨",
+        "experience": "基隆市議會議長",
+        "wikidata": "Q115867116",
+        "en": "Tong Tzu-wei"
+      },
+      {
+        "number": 2,
+        "name": "魏造文",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 3,
+        "name": "謝國樑",
+        "party": "中國國民黨",
+        "experience": "現任市長",
+        "wikidata": "Q8274088",
+        "en": "Hsieh Kuo-liang"
+      }
+    ],
+    "新竹市": [
+      {
+        "number": 1,
+        "name": "何志勇",
+        "party": "無黨籍",
+        "experience": "前國民黨發言人",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "高虹安",
+        "party": "無黨籍",
+        "experience": "現任市長",
+        "wikidata": "Q85885392",
+        "en": "Ann Kao"
+      },
+      {
+        "number": 3,
+        "name": "莊競程",
+        "party": "民主進步黨",
+        "experience": "台灣智庫執行長、前立法委員",
+        "wikidata": "Q85883887",
+        "en": "Chuang Ching-cheng"
+      }
+    ],
+    "新竹縣": [
+      {
+        "number": 1,
+        "name": "朱定瑀",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "徐欣瑩",
+        "party": "中國國民黨",
+        "experience": "立法委員",
+        "wikidata": "Q9141091",
+        "en": "Hsu Hsin-ying"
+      },
+      {
+        "number": 3,
+        "name": "鄭朝方",
+        "party": "民主進步黨",
+        "experience": "竹北市長",
+        "wikidata": "Q16259936",
+        "en": "Cheng Chao-fang"
+      }
+    ],
+    "苗栗縣": [
+      {
+        "number": 1,
+        "name": "陳品安",
+        "party": "民主進步黨",
+        "experience": "苗栗縣議員",
+        "wikidata": "Q86730626",
+        "en": "Chen Ping-an"
+      },
+      {
+        "number": 2,
+        "name": "鍾東錦",
+        "party": "中國國民黨",
+        "experience": "現任縣長",
+        "wikidata": "Q50088349",
+        "en": "Chung Tung-chin"
+      }
+    ],
+    "彰化縣": [
+      {
+        "number": 1,
+        "name": "陳素月",
+        "party": "民主進步黨",
+        "experience": "立法委員",
+        "wikidata": "Q19653988",
+        "en": "Chen Su-yueh"
+      },
+      {
+        "number": 2,
+        "name": "魏平政",
+        "party": "中國國民黨",
+        "experience": "律師",
+        "wikidata": "Q140410248",
+        "en": ""
+      },
+      {
+        "number": 3,
+        "name": "邱建富",
+        "party": "無黨籍",
+        "experience": "前彰化市長",
+        "wikidata": "Q8347176",
+        "en": ""
+      },
+      {
+        "number": 4,
+        "name": "陳重嘉",
+        "party": "無黨籍",
+        "experience": "彰化縣議員",
+        "wikidata": "",
+        "en": ""
+      }
+    ],
+    "南投縣": [
+      {
+        "number": 1,
+        "name": "溫世政",
+        "party": "民主進步黨",
+        "experience": "牙醫師",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "許淑華",
+        "party": "中國國民黨",
+        "experience": "現任縣長",
+        "wikidata": "Q20062218",
+        "en": "Hsu Shu-Hua"
+      }
+    ],
+    "雲林縣": [
+      {
+        "number": 1,
+        "name": "吳炳輝",
+        "party": "無黨籍",
+        "experience": "律師",
+        "wikidata": "Q125473748",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "張嘉郡",
+        "party": "中國國民黨",
+        "experience": "立法委員",
+        "wikidata": "Q8279212",
+        "en": "Chang Chia-chun"
+      },
+      {
+        "number": 3,
+        "name": "劉建國",
+        "party": "民主進步黨",
+        "experience": "立法委員",
+        "wikidata": "Q117437928",
+        "en": "Liu Jianguo"
+      },
+      {
+        "number": 4,
+        "name": "林佳瑜",
+        "party": "無黨籍",
+        "experience": "牙醫師",
+        "wikidata": "",
+        "en": ""
+      }
+    ],
+    "嘉義市": [
+      {
+        "number": 1,
+        "name": "黃宏成台灣阿成世界偉人財神總統",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "Q22100234",
+        "en": "Huang Hung-chen Taiwan Ah Chen World Great Person Rich God President"
+      },
+      {
+        "number": 2,
+        "name": "陳愷璜",
+        "party": "無黨籍",
+        "experience": "前國立臺北藝術大學校長",
+        "wikidata": "Q97899636",
+        "en": "Chen Kai Huang"
+      },
+      {
+        "number": 3,
+        "name": "張啓楷",
+        "party": "台灣民眾黨",
+        "experience": "前立法委員；國民黨與民眾黨共同推薦",
+        "wikidata": "Q9092154",
+        "en": "Chang Chi-kai"
+      },
+      {
+        "number": 4,
+        "name": "王美惠",
+        "party": "民主進步黨",
+        "experience": "立法委員",
+        "wikidata": "Q78123040",
+        "en": "Wang Mei-hui"
+      },
+      {
+        "number": 5,
+        "name": "王義成",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      }
+    ],
+    "嘉義縣": [
+      {
+        "number": 1,
+        "name": "吳品叡",
+        "party": "無黨籍",
+        "experience": "朴子市長",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "蔡易餘",
+        "party": "民主進步黨",
+        "experience": "立法委員",
+        "wikidata": "Q8350388",
+        "en": "Tsai Yi-yu"
+      }
+    ],
+    "屏東縣": [
+      {
+        "number": 1,
+        "name": "蘇清泉",
+        "party": "中國國民黨",
+        "experience": "立法委員",
+        "wikidata": "Q15933742",
+        "en": "Su Ching-chuan"
+      },
+      {
+        "number": 2,
+        "name": "周春米",
+        "party": "民主進步黨",
+        "experience": "現任縣長",
+        "wikidata": "Q22774121",
+        "en": "Chou Chun-mi"
+      }
+    ],
+    "宜蘭縣": [
+      {
+        "number": 1,
+        "name": "林國漳",
+        "party": "民主進步黨",
+        "experience": "律師",
+        "wikidata": "Q136679504",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "陳宏毅",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 3,
+        "name": "吳宗憲",
+        "party": "中國國民黨",
+        "experience": "立法委員",
+        "wikidata": "Q697458",
+        "en": "Jacky Wu"
+      },
+      {
+        "number": 4,
+        "name": "劉燦輝",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 5,
+        "name": "楊鉯婷",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      }
+    ],
+    "臺東縣": [
+      {
+        "number": 1,
+        "name": "李吳穎智",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "陳瑩",
+        "party": "民主進步黨",
+        "experience": "立法委員",
+        "wikidata": "Q15879370",
+        "en": ""
+      },
+      {
+        "number": 3,
+        "name": "王志偉",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "Q125473706",
+        "en": ""
+      },
+      {
+        "number": 4,
+        "name": "吳秀華",
+        "party": "中國國民黨",
+        "experience": "臺東縣議會議長",
+        "wikidata": "Q137573135",
+        "en": "Wu Hsiu-hua"
+      }
+    ],
+    "花蓮縣": [
+      {
+        "number": 1,
+        "name": "魏嘉賢",
+        "party": "無黨籍",
+        "experience": "花蓮縣議員、前花蓮市長",
+        "wikidata": "Q27150807",
+        "en": "Wei Chia-hsien"
+      },
+      {
+        "number": 2,
+        "name": "張峻",
+        "party": "無黨籍",
+        "experience": "花蓮縣議會議長",
+        "wikidata": "Q48928430",
+        "en": ""
+      },
+      {
+        "number": 3,
+        "name": "游淑貞",
+        "party": "中國國民黨",
+        "experience": "吉安鄉長",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 4,
+        "name": "羅佩秦",
+        "party": "台灣工黨",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      }
+    ],
+    "澎湖縣": [
+      {
+        "number": 1,
+        "name": "許智富",
+        "party": "無黨籍",
+        "experience": "前澎湖縣副縣長",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "周倪安",
+        "party": "台聯黨",
+        "experience": "黨主席",
+        "wikidata": "Q10920153",
+        "en": "Chou Ni-an"
+      },
+      {
+        "number": 3,
+        "name": "葉竹林",
+        "party": "無黨籍",
+        "experience": "前馬公市長",
+        "wikidata": "Q109342957",
+        "en": "Yeh Chu-lin"
+      },
+      {
+        "number": 4,
+        "name": "吳淑瑾",
+        "party": "民主進步黨",
+        "experience": "現任縣長陳光復之妻",
+        "wikidata": "Q140410697",
+        "en": "Wu Shu-ching"
+      },
+      {
+        "number": 5,
+        "name": "陳振中",
+        "party": "中國國民黨",
+        "experience": "前湖西鄉長",
+        "wikidata": "Q15933673",
+        "en": ""
+      },
+      {
+        "number": 6,
+        "name": "陳盡川",
+        "party": "無黨籍",
+        "experience": "海洋保育志工",
+        "wikidata": "",
+        "en": ""
+      }
+    ],
+    "金門縣": [
+      {
+        "number": 1,
+        "name": "張國威",
+        "party": "無黨籍",
+        "experience": "企業家",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "李文良",
+        "party": "無黨籍",
+        "experience": "前金門縣副縣長",
+        "wikidata": "Q6539149",
+        "en": "Li Wenliang"
+      },
+      {
+        "number": 3,
+        "name": "洪和成",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 4,
+        "name": "張火木",
+        "party": "無黨籍",
+        "experience": "",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 5,
+        "name": "陳玉珍",
+        "party": "中國國民黨",
+        "experience": "立法委員",
+        "wikidata": "Q18165358",
+        "en": ""
+      },
+      {
+        "number": 6,
+        "name": "梁文韜",
+        "party": "無黨籍",
+        "experience": "國立成功大學政治學系教授",
+        "wikidata": "Q9297741",
+        "en": "Hugo Leung Man To"
+      },
+      {
+        "number": 7,
+        "name": "黃世團",
+        "party": "無黨籍",
+        "experience": "藝術家",
+        "wikidata": "",
+        "en": ""
+      }
+    ],
+    "連江縣": [
+      {
+        "number": 1,
+        "name": "王忠銘",
+        "party": "中國國民黨",
+        "experience": "現任縣長",
+        "wikidata": "",
+        "en": ""
+      },
+      {
+        "number": 2,
+        "name": "曹爾元",
+        "party": "無黨籍",
+        "experience": "前連江縣政府地政主管",
+        "wikidata": "",
+        "en": ""
+      }
+    ]
+  }
+}

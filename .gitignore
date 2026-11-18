@@ -1,0 +1,25 @@
+# Local secrets
+.env
+.env.*
+
+# Portable Python runtime and dependency caches
+python/
+**/__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+
+# Runtime databases and generated data
+data/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.bak-*
+.DS_Store
+Thumbs.db

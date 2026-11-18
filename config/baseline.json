@@ -1,0 +1,1981 @@
+{
+  "meta": {
+    "sources": [
+      "https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%9B%B4%E8%BD%84%E5%B8%82%E9%95%B7%E5%8F%8A%E7%B8%A3%E5%B8%82%E9%95%B7%E9%81%B8%E8%88%89",
+      "https://zh.wikipedia.org/wiki/2022%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%9B%B4%E8%BD%84%E5%B8%82%E9%95%B7%E5%8F%8A%E7%B8%A3%E5%B8%82%E9%95%B7%E9%81%B8%E8%88%89"
+    ],
+    "note": "2018 / 2022 縣市長選舉結果，用於基線與回測",
+    "updated_at": "2026-10-15"
+  },
+  "regions": {
+    "臺北市": {
+      "2018": {
+        "winner": "柯文哲",
+        "winner_party": "無黨籍",
+        "winner_pct": 41.07,
+        "runner_up": "丁守中",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 40.82,
+        "margin": 0.25,
+        "candidates": [
+          {
+            "name": "柯文哲",
+            "party": "無黨籍",
+            "votes": 580663.0,
+            "pct": 41.07,
+            "win": true
+          },
+          {
+            "name": "丁守中",
+            "party": "中國國民黨",
+            "votes": 577096.0,
+            "pct": 40.82,
+            "win": false
+          },
+          {
+            "name": "姚文智",
+            "party": "民主進步黨",
+            "votes": 244342.0,
+            "pct": 17.28,
+            "win": false
+          },
+          {
+            "name": "李錫錕",
+            "party": "無黨籍",
+            "votes": 6158.0,
+            "pct": 0.44,
+            "win": false
+          },
+          {
+            "name": "吳蕚洋",
+            "party": "無黨籍",
+            "votes": 5611.0,
+            "pct": 0.4,
+            "win": false
+          }
+        ],
+        "electorate": 2164155.0,
+        "cast": 1413870.0,
+        "turnout": 65.95
+      },
+      "2022": {
+        "winner": "蔣萬安",
+        "winner_party": "中國國民黨",
+        "winner_pct": 42.29,
+        "runner_up": "陳時中",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 31.93,
+        "margin": 10.36,
+        "candidates": [
+          {
+            "name": "蔣萬安",
+            "party": "中國國民黨",
+            "votes": 575590.0,
+            "pct": 42.29,
+            "win": true
+          },
+          {
+            "name": "陳時中",
+            "party": "民主進步黨",
+            "votes": 434558.0,
+            "pct": 31.93,
+            "win": false
+          },
+          {
+            "name": "黃珊珊",
+            "party": "無黨籍",
+            "votes": 342141.0,
+            "pct": 25.14,
+            "win": false
+          },
+          {
+            "name": "童文薰",
+            "party": "無黨籍",
+            "votes": 2425.0,
+            "pct": 0.18,
+            "win": false
+          },
+          {
+            "name": "張家豪",
+            "party": "台灣動物保護黨",
+            "votes": 2367.0,
+            "pct": 0.17,
+            "win": false
+          },
+          {
+            "name": "蘇煥智",
+            "party": "台灣維新",
+            "votes": 1851.0,
+            "pct": 0.14,
+            "win": false
+          },
+          {
+            "name": "王文娟",
+            "party": "無黨籍",
+            "votes": 451.0,
+            "pct": 0.03,
+            "win": false
+          },
+          {
+            "name": "鄭匡宇",
+            "party": "無黨籍",
+            "votes": 386.0,
+            "pct": 0.03,
+            "win": false
+          },
+          {
+            "name": "施奉先",
+            "party": "無黨籍",
+            "votes": 383.0,
+            "pct": 0.03,
+            "win": false
+          },
+          {
+            "name": "黃聖峰",
+            "party": "小民參政歐巴桑聯盟",
+            "votes": 256.0,
+            "pct": 0.02,
+            "win": false
+          },
+          {
+            "name": "唐新民",
+            "party": "共和黨",
+            "votes": 316.0,
+            "pct": 0.02,
+            "win": false
+          },
+          {
+            "name": "謝立康",
+            "party": "無黨籍",
+            "votes": 227.0,
+            "pct": 0.02,
+            "win": false
+          }
+        ],
+        "electorate": 2026769.0,
+        "cast": 1372179.0,
+        "turnout": 67.7
+      }
+    },
+    "新北市": {
+      "2018": {
+        "winner": "侯友宜",
+        "winner_party": "中國國民黨",
+        "winner_pct": 57.15,
+        "runner_up": "蘇貞昌",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 42.85,
+        "margin": 14.3,
+        "candidates": [
+          {
+            "name": "侯友宜",
+            "party": "中國國民黨",
+            "votes": 1165130.0,
+            "pct": 57.15,
+            "win": true
+          },
+          {
+            "name": "蘇貞昌",
+            "party": "民主進步黨",
+            "votes": 873692.0,
+            "pct": 42.85,
+            "win": false
+          }
+        ],
+        "electorate": 3264128.0,
+        "cast": 2038822.0,
+        "turnout": 64.0
+      },
+      "2022": {
+        "winner": "侯友宜",
+        "winner_party": "中國國民黨",
+        "winner_pct": 62.42,
+        "runner_up": "林佳龍",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 37.58,
+        "margin": 24.84,
+        "candidates": [
+          {
+            "name": "侯友宜",
+            "party": "中國國民黨",
+            "votes": 1152555.0,
+            "pct": 62.42,
+            "win": true
+          },
+          {
+            "name": "林佳龍",
+            "party": "民主進步黨",
+            "votes": 693976.0,
+            "pct": 37.58,
+            "win": false
+          }
+        ],
+        "electorate": 3316517.0,
+        "cast": 1877186.0,
+        "turnout": 56.6
+      }
+    },
+    "桃園市": {
+      "2018": {
+        "winner": "鄭文燦",
+        "winner_party": "民主進步黨",
+        "winner_pct": 53.46,
+        "runner_up": "陳學聖",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 39.42,
+        "margin": 14.04,
+        "candidates": [
+          {
+            "name": "鄭文燦",
+            "party": "民主進步黨",
+            "votes": 552330.0,
+            "pct": 53.46,
+            "win": true
+          },
+          {
+            "name": "陳學聖",
+            "party": "中國國民黨",
+            "votes": 407234.0,
+            "pct": 39.42,
+            "win": false
+          },
+          {
+            "name": "楊麗環",
+            "party": "無黨籍",
+            "votes": 51518.0,
+            "pct": 4.99,
+            "win": false
+          },
+          {
+            "name": "朱梅雪",
+            "party": "無黨籍",
+            "votes": 18200.0,
+            "pct": 1.76,
+            "win": false
+          },
+          {
+            "name": "吳富彤",
+            "party": "無黨籍",
+            "votes": 3867.0,
+            "pct": 0.37,
+            "win": false
+          }
+        ],
+        "electorate": 1732591.0,
+        "cast": 1033149.0,
+        "turnout": 60.63
+      },
+      "2022": {
+        "winner": "張善政",
+        "winner_party": "中國國民黨",
+        "winner_pct": 52.02,
+        "runner_up": "鄭運鵬",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 40.03,
+        "margin": 11.99,
+        "candidates": [
+          {
+            "name": "張善政",
+            "party": "中國國民黨",
+            "votes": 557572.0,
+            "pct": 52.02,
+            "win": true
+          },
+          {
+            "name": "鄭運鵬",
+            "party": "民主進步黨",
+            "votes": 428983.0,
+            "pct": 40.03,
+            "win": false
+          },
+          {
+            "name": "賴香伶",
+            "party": "台灣民眾黨",
+            "votes": 54926.0,
+            "pct": 5.12,
+            "win": false
+          },
+          {
+            "name": "鄭寶清",
+            "party": "無黨籍",
+            "votes": 30282.0,
+            "pct": 2.83,
+            "win": false
+          }
+        ],
+        "electorate": 1825127.0,
+        "cast": 1085225.0,
+        "turnout": 59.46
+      }
+    },
+    "臺中市": {
+      "2018": {
+        "winner": "盧秀燕",
+        "winner_party": "中國國民黨",
+        "winner_pct": 56.57,
+        "runner_up": "林佳龍",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 42.35,
+        "margin": 14.22,
+        "candidates": [
+          {
+            "name": "盧秀燕",
+            "party": "中國國民黨",
+            "votes": 827996.0,
+            "pct": 56.57,
+            "win": true
+          },
+          {
+            "name": "林佳龍",
+            "party": "民主進步黨",
+            "votes": 619855.0,
+            "pct": 42.35,
+            "win": false
+          },
+          {
+            "name": "宋原通",
+            "party": "無黨籍",
+            "votes": 15919.0,
+            "pct": 1.09,
+            "win": false
+          }
+        ],
+        "electorate": 2213789.0,
+        "cast": 1463770.0,
+        "turnout": 67.46
+      },
+      "2022": {
+        "winner": "盧秀燕",
+        "winner_party": "中國國民黨",
+        "winner_pct": 59.35,
+        "runner_up": "蔡其昌",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 38.93,
+        "margin": 20.42,
+        "candidates": [
+          {
+            "name": "盧秀燕",
+            "party": "中國國民黨",
+            "votes": 799107.0,
+            "pct": 59.35,
+            "win": true
+          },
+          {
+            "name": "蔡其昌",
+            "party": "民主進步黨",
+            "votes": 524224.0,
+            "pct": 38.93,
+            "win": false
+          },
+          {
+            "name": "陳美妃",
+            "party": "無黨籍",
+            "votes": 23140.0,
+            "pct": 1.72,
+            "win": false
+          }
+        ],
+        "electorate": 2274107.0,
+        "cast": 1364629.0,
+        "turnout": 60.01
+      }
+    },
+    "臺南市": {
+      "2018": {
+        "winner": "黃偉哲",
+        "winner_party": "民主進步黨",
+        "winner_pct": 38.02,
+        "runner_up": "高思博",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 32.37,
+        "margin": 5.65,
+        "candidates": [
+          {
+            "name": "黃偉哲",
+            "party": "民主進步黨",
+            "votes": 367518.0,
+            "pct": 38.02,
+            "win": true
+          },
+          {
+            "name": "高思博",
+            "party": "中國國民黨",
+            "votes": 312874.0,
+            "pct": 32.37,
+            "win": false
+          },
+          {
+            "name": "陳永和",
+            "party": "無黨籍",
+            "votes": 117179.0,
+            "pct": 12.12,
+            "win": false
+          },
+          {
+            "name": "林義豐",
+            "party": "無黨籍",
+            "votes": 84153.0,
+            "pct": 8.71,
+            "win": false
+          },
+          {
+            "name": "許忠信",
+            "party": "無黨籍",
+            "votes": 45168.0,
+            "pct": 4.67,
+            "win": false
+          },
+          {
+            "name": "蘇煥智",
+            "party": "無黨籍",
+            "votes": 39778.0,
+            "pct": 4.11,
+            "win": false
+          }
+        ],
+        "electorate": 1546862.0,
+        "cast": 966670.0,
+        "turnout": 64.01
+      },
+      "2022": {
+        "winner": "黃偉哲",
+        "winner_party": "民主進步黨",
+        "winner_pct": 48.8,
+        "runner_up": "謝龍介",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 43.63,
+        "margin": 5.17,
+        "candidates": [
+          {
+            "name": "黃偉哲",
+            "party": "民主進步黨",
+            "votes": 433684.0,
+            "pct": 48.8,
+            "win": true
+          },
+          {
+            "name": "謝龍介",
+            "party": "中國國民黨",
+            "votes": 387731.0,
+            "pct": 43.63,
+            "win": false
+          },
+          {
+            "name": "許忠信",
+            "party": "無黨籍",
+            "votes": 38697.0,
+            "pct": 4.35,
+            "win": false
+          },
+          {
+            "name": "林義豐",
+            "party": "無黨籍",
+            "votes": 24606.0,
+            "pct": 2.77,
+            "win": false
+          },
+          {
+            "name": "吳炳輝",
+            "party": "無黨籍",
+            "votes": 3956.0,
+            "pct": 0.45,
+            "win": false
+          }
+        ],
+        "electorate": 1548203.0,
+        "cast": 908533.0,
+        "turnout": 58.68
+      }
+    },
+    "高雄市": {
+      "2018": {
+        "winner": "韓國瑜",
+        "winner_party": "中國國民黨",
+        "winner_pct": 53.87,
+        "runner_up": "陳其邁",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 44.8,
+        "margin": 9.07,
+        "candidates": [
+          {
+            "name": "韓國瑜",
+            "party": "中國國民黨",
+            "votes": 892545.0,
+            "pct": 53.87,
+            "win": true
+          },
+          {
+            "name": "陳其邁",
+            "party": "民主進步黨",
+            "votes": 742239.0,
+            "pct": 44.8,
+            "win": false
+          },
+          {
+            "name": "蘇盈貴",
+            "party": "無黨籍",
+            "votes": 14125.0,
+            "pct": 0.85,
+            "win": false
+          },
+          {
+            "name": "璩美鳳",
+            "party": "無黨籍",
+            "votes": 7998.0,
+            "pct": 0.48,
+            "win": false
+          }
+        ],
+        "electorate": 2281338.0,
+        "cast": 1656907.0,
+        "turnout": 73.54
+      },
+      "2022": {
+        "winner": "陳其邁",
+        "winner_party": "民主進步黨",
+        "winner_pct": 58.1,
+        "runner_up": "柯志恩",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 40.16,
+        "margin": 17.94,
+        "candidates": [
+          {
+            "name": "陳其邁",
+            "party": "民主進步黨",
+            "votes": 766147.0,
+            "pct": 58.1,
+            "win": true
+          },
+          {
+            "name": "柯志恩",
+            "party": "中國國民黨",
+            "votes": 529607.0,
+            "pct": 40.16,
+            "win": false
+          },
+          {
+            "name": "曾尹儷",
+            "party": "無黨籍",
+            "votes": 14585.0,
+            "pct": 1.11,
+            "win": false
+          },
+          {
+            "name": "鄭宇翔",
+            "party": "無黨籍",
+            "votes": 8394.0,
+            "pct": 0.64,
+            "win": false
+          }
+        ],
+        "electorate": 2282623.0,
+        "cast": 1337819.0,
+        "turnout": 58.61
+      }
+    },
+    "基隆市": {
+      "2018": {
+        "winner": "林右昌",
+        "winner_party": "民主進步黨",
+        "winner_pct": 54.14,
+        "runner_up": "謝立功",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 45.86,
+        "margin": 8.28,
+        "candidates": [
+          {
+            "name": "林右昌",
+            "party": "民主進步黨",
+            "votes": 102167.0,
+            "pct": 54.14,
+            "win": true
+          },
+          {
+            "name": "謝立功",
+            "party": "中國國民黨",
+            "votes": 86529.0,
+            "pct": 45.86,
+            "win": false
+          }
+        ],
+        "electorate": 309428.0,
+        "cast": 188696.0,
+        "turnout": 62.45
+      },
+      "2022": {
+        "winner": "謝國樑",
+        "winner_party": "中國國民黨",
+        "winner_pct": 52.92,
+        "runner_up": "蔡適應",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 39.01,
+        "margin": 13.91,
+        "candidates": [
+          {
+            "name": "謝國樑",
+            "party": "中國國民黨",
+            "votes": 96784.0,
+            "pct": 52.92,
+            "win": true
+          },
+          {
+            "name": "蔡適應",
+            "party": "民主進步黨",
+            "votes": 71354.0,
+            "pct": 39.01,
+            "win": false
+          },
+          {
+            "name": "陳薇仲",
+            "party": "無黨籍",
+            "votes": 12000.0,
+            "pct": 6.56,
+            "win": false
+          },
+          {
+            "name": "黃希賢",
+            "party": "無黨籍",
+            "votes": 2136.0,
+            "pct": 1.17,
+            "win": false
+          },
+          {
+            "name": "曾國民",
+            "party": "無黨籍",
+            "votes": 619.0,
+            "pct": 0.34,
+            "win": false
+          }
+        ],
+        "electorate": 307913.0,
+        "cast": 185241.0,
+        "turnout": 60.16
+      }
+    },
+    "新竹市": {
+      "2018": {
+        "winner": "林智堅",
+        "winner_party": "民主進步黨",
+        "winner_pct": 49.57,
+        "runner_up": "許明財",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 27.87,
+        "margin": 21.7,
+        "candidates": [
+          {
+            "name": "林智堅",
+            "party": "民主進步黨",
+            "votes": 107612.0,
+            "pct": 49.57,
+            "win": true
+          },
+          {
+            "name": "許明財",
+            "party": "中國國民黨",
+            "votes": 60508.0,
+            "pct": 27.87,
+            "win": false
+          },
+          {
+            "name": "謝文進",
+            "party": "無黨籍",
+            "votes": 44101.0,
+            "pct": 20.31,
+            "win": false
+          },
+          {
+            "name": "黃源甫",
+            "party": "無黨籍",
+            "votes": 3603.0,
+            "pct": 1.66,
+            "win": false
+          },
+          {
+            "name": "李驥羣",
+            "party": "無黨籍",
+            "votes": 705.0,
+            "pct": 0.32,
+            "win": false
+          },
+          {
+            "name": "郭榮睿",
+            "party": "無黨籍",
+            "votes": 574.0,
+            "pct": 0.26,
+            "win": false
+          }
+        ],
+        "electorate": 338323.0,
+        "cast": 217103.0,
+        "turnout": 65.44
+      },
+      "2022": {
+        "winner": "高虹安",
+        "winner_party": "台灣民眾黨",
+        "winner_pct": 45.02,
+        "runner_up": "沈慧虹",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 35.68,
+        "margin": 9.34,
+        "candidates": [
+          {
+            "name": "高虹安",
+            "party": "台灣民眾黨",
+            "votes": 98121.0,
+            "pct": 45.02,
+            "win": true
+          },
+          {
+            "name": "沈慧虹",
+            "party": "民主進步黨",
+            "votes": 77764.0,
+            "pct": 35.68,
+            "win": false
+          },
+          {
+            "name": "林耕仁",
+            "party": "中國國民黨",
+            "votes": 39391.0,
+            "pct": 18.07,
+            "win": false
+          },
+          {
+            "name": "李驥羣",
+            "party": "無黨籍",
+            "votes": 1108.0,
+            "pct": 0.51,
+            "win": false
+          },
+          {
+            "name": "黃源甫",
+            "party": "無黨籍",
+            "votes": 1049.0,
+            "pct": 0.48,
+            "win": false
+          },
+          {
+            "name": "龔偉綸",
+            "party": "無黨籍",
+            "votes": 508.0,
+            "pct": 0.23,
+            "win": false
+          }
+        ],
+        "electorate": 350758.0,
+        "cast": 220783.0,
+        "turnout": 62.94
+      }
+    },
+    "嘉義市": {
+      "2018": {
+        "winner": "黃敏惠",
+        "winner_party": "中國國民黨",
+        "winner_pct": 41.18,
+        "runner_up": "涂醒哲",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 39.56,
+        "margin": 1.62,
+        "candidates": [
+          {
+            "name": "黃敏惠",
+            "party": "中國國民黨",
+            "votes": 58558.0,
+            "pct": 41.18,
+            "win": true
+          },
+          {
+            "name": "涂醒哲",
+            "party": "民主進步黨",
+            "votes": 56256.0,
+            "pct": 39.56,
+            "win": false
+          },
+          {
+            "name": "蕭淑麗",
+            "party": "無黨籍",
+            "votes": 25572.0,
+            "pct": 17.98,
+            "win": false
+          },
+          {
+            "name": "黃宏成台灣阿成<br>世界偉人財神總統",
+            "party": "無黨籍",
+            "votes": 1822.0,
+            "pct": 1.28,
+            "win": false
+          }
+        ],
+        "electorate": 212843.0,
+        "cast": 142208.0,
+        "turnout": 67.91
+      },
+      "2022": {
+        "winner": "黃敏惠",
+        "winner_party": "中國國民黨",
+        "winner_pct": 63.82,
+        "runner_up": "李俊俋",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 34.95,
+        "margin": 28.87,
+        "candidates": [
+          {
+            "name": "黃敏惠",
+            "party": "中國國民黨",
+            "votes": 59874.0,
+            "pct": 63.82,
+            "win": true
+          },
+          {
+            "name": "李俊俋",
+            "party": "民主進步黨",
+            "votes": 32790.0,
+            "pct": 34.95,
+            "win": false
+          },
+          {
+            "name": "黃宏成台灣阿成世界偉人財神總統",
+            "party": "無黨籍",
+            "votes": 535.0,
+            "pct": 0.57,
+            "win": false
+          },
+          {
+            "name": "鄭凱升",
+            "party": "無黨籍",
+            "votes": 368.0,
+            "pct": 0.39,
+            "win": false
+          },
+          {
+            "name": "陳泰山",
+            "party": "無黨籍",
+            "votes": 246.0,
+            "pct": 0.26,
+            "win": false
+          }
+        ],
+        "electorate": 214130.0,
+        "cast": 94188.0,
+        "turnout": 43.99
+      }
+    },
+    "新竹縣": {
+      "2018": {
+        "winner": "楊文科",
+        "winner_party": "中國國民黨",
+        "winner_pct": 38.2,
+        "runner_up": "徐欣瑩",
+        "runner_up_party": "無黨籍",
+        "runner_up_pct": 32.29,
+        "margin": 5.91,
+        "candidates": [
+          {
+            "name": "楊文科",
+            "party": "中國國民黨",
+            "votes": 107877.0,
+            "pct": 38.2,
+            "win": true
+          },
+          {
+            "name": "徐欣瑩",
+            "party": "無黨籍",
+            "votes": 91190.0,
+            "pct": 32.29,
+            "win": false
+          },
+          {
+            "name": "鄭朝方",
+            "party": "民主進步黨",
+            "votes": 78170.0,
+            "pct": 27.68,
+            "win": false
+          },
+          {
+            "name": "葉芳棟",
+            "party": "無黨籍",
+            "votes": 5168.0,
+            "pct": 1.83,
+            "win": false
+          }
+        ],
+        "electorate": 427652.0,
+        "cast": 282405.0,
+        "turnout": 67.95
+      },
+      "2022": {
+        "winner": "楊文科",
+        "winner_party": "中國國民黨",
+        "winner_pct": 63.36,
+        "runner_up": "周江-{杰}-",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 32.4,
+        "margin": 30.96,
+        "candidates": [
+          {
+            "name": "楊文科",
+            "party": "中國國民黨",
+            "votes": 163662.0,
+            "pct": 63.36,
+            "win": true
+          },
+          {
+            "name": "周江-{杰}-",
+            "party": "民主進步黨",
+            "votes": 83683.0,
+            "pct": 32.4,
+            "win": false
+          },
+          {
+            "name": "范振揆",
+            "party": "無黨籍",
+            "votes": 4874.0,
+            "pct": 1.89,
+            "win": false
+          },
+          {
+            "name": "黃秀龍",
+            "party": "無黨籍",
+            "votes": 3403.0,
+            "pct": 1.32,
+            "win": false
+          },
+          {
+            "name": "劉復嵐",
+            "party": "無黨籍",
+            "votes": 2683.0,
+            "pct": 1.04,
+            "win": false
+          }
+        ],
+        "electorate": 452720.0,
+        "cast": 267013.0,
+        "turnout": 58.98
+      }
+    },
+    "苗栗縣": {
+      "2018": {
+        "winner": "徐耀昌",
+        "winner_party": "中國國民黨",
+        "winner_pct": 57.74,
+        "runner_up": "徐定禎",
+        "runner_up_party": "無黨籍",
+        "runner_up_pct": 37.03,
+        "margin": 20.71,
+        "candidates": [
+          {
+            "name": "徐耀昌",
+            "party": "中國國民黨",
+            "votes": 175756.0,
+            "pct": 57.74,
+            "win": true
+          },
+          {
+            "name": "徐定禎",
+            "party": "無黨籍",
+            "votes": 112704.0,
+            "pct": 37.03,
+            "win": false
+          },
+          {
+            "name": "黃玉燕",
+            "party": "無黨籍",
+            "votes": 9030.0,
+            "pct": 2.97,
+            "win": false
+          },
+          {
+            "name": "朱泰平",
+            "party": "無黨籍",
+            "votes": 6880.0,
+            "pct": 2.26,
+            "win": false
+          }
+        ],
+        "electorate": 446507.0,
+        "cast": 304370.0,
+        "turnout": 70.74
+      },
+      "2022": {
+        "winner": "鍾東錦",
+        "winner_party": "無黨籍",
+        "winner_pct": 42.66,
+        "runner_up": "徐定禎",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 31.24,
+        "margin": 11.42,
+        "candidates": [
+          {
+            "name": "鍾東錦",
+            "party": "無黨籍",
+            "votes": 124603.0,
+            "pct": 42.66,
+            "win": true
+          },
+          {
+            "name": "徐定禎",
+            "party": "民主進步黨",
+            "votes": 91260.0,
+            "pct": 31.24,
+            "win": false
+          },
+          {
+            "name": "宋國鼎",
+            "party": "無黨籍",
+            "votes": 39347.0,
+            "pct": 13.47,
+            "win": false
+          },
+          {
+            "name": "謝福弘",
+            "party": "中國國民黨",
+            "votes": 32026.0,
+            "pct": 10.96,
+            "win": false
+          },
+          {
+            "name": "吳盛聖",
+            "party": "無黨籍",
+            "votes": 4864.0,
+            "pct": 1.67,
+            "win": false
+          }
+        ],
+        "electorate": 443908.0,
+        "cast": 298319.0,
+        "turnout": 67.2
+      }
+    },
+    "彰化縣": {
+      "2018": {
+        "winner": "王惠美",
+        "winner_party": "中國國民黨",
+        "winner_pct": 53.18,
+        "runner_up": "魏明谷",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 39.87,
+        "margin": 13.31,
+        "candidates": [
+          {
+            "name": "王惠美",
+            "party": "中國國民黨",
+            "votes": 377795.0,
+            "pct": 53.18,
+            "win": true
+          },
+          {
+            "name": "魏明谷",
+            "party": "民主進步黨",
+            "votes": 283269.0,
+            "pct": 39.87,
+            "win": false
+          },
+          {
+            "name": "黃文玲",
+            "party": "無黨籍",
+            "votes": 34690.0,
+            "pct": 4.88,
+            "win": false
+          },
+          {
+            "name": "白雅燦",
+            "party": "無黨籍",
+            "votes": 7402.0,
+            "pct": 1.04,
+            "win": false
+          },
+          {
+            "name": "洪敏雄",
+            "party": "無黨籍",
+            "votes": 7263.0,
+            "pct": 1.02,
+            "win": false
+          }
+        ],
+        "electorate": 1031222.0,
+        "cast": 710419.0,
+        "turnout": 70.9
+      },
+      "2022": {
+        "winner": "王惠美",
+        "winner_party": "中國國民黨",
+        "winner_pct": 56.75,
+        "runner_up": "黃秀芳",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 41.94,
+        "margin": 14.81,
+        "candidates": [
+          {
+            "name": "王惠美",
+            "party": "中國國民黨",
+            "votes": 369133.0,
+            "pct": 56.75,
+            "win": true
+          },
+          {
+            "name": "黃秀芳",
+            "party": "民主進步黨",
+            "votes": 272817.0,
+            "pct": 41.94,
+            "win": false
+          },
+          {
+            "name": "蕭仁正",
+            "party": "無黨籍",
+            "votes": 8474.0,
+            "pct": 1.3,
+            "win": false
+          }
+        ],
+        "electorate": 1028606.0,
+        "cast": 667519.0,
+        "turnout": 64.9
+      }
+    },
+    "南投縣": {
+      "2018": {
+        "winner": "林明溱",
+        "winner_party": "中國國民黨",
+        "winner_pct": 66.72,
+        "runner_up": "洪國浩",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 33.28,
+        "margin": 33.44,
+        "candidates": [
+          {
+            "name": "林明溱",
+            "party": "中國國民黨",
+            "votes": 195385.0,
+            "pct": 66.72,
+            "win": true
+          },
+          {
+            "name": "洪國浩",
+            "party": "民主進步黨",
+            "votes": 97460.0,
+            "pct": 33.28,
+            "win": false
+          }
+        ],
+        "electorate": 413222.0,
+        "cast": 292845.0,
+        "turnout": 72.75
+      },
+      "2022": {
+        "winner": "許淑華",
+        "winner_party": "中國國民黨",
+        "winner_pct": 55.99,
+        "runner_up": "蔡培慧",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 42.83,
+        "margin": 13.16,
+        "candidates": [
+          {
+            "name": "許淑華",
+            "party": "中國國民黨",
+            "votes": 154256.0,
+            "pct": 55.99,
+            "win": true
+          },
+          {
+            "name": "蔡培慧",
+            "party": "民主進步黨",
+            "votes": 117993.0,
+            "pct": 42.83,
+            "win": false
+          },
+          {
+            "name": "王永慶",
+            "party": "無黨籍",
+            "votes": 3250.0,
+            "pct": 1.18,
+            "win": false
+          }
+        ],
+        "electorate": 406195.0,
+        "cast": 280596.0,
+        "turnout": 69.08
+      }
+    },
+    "雲林縣": {
+      "2018": {
+        "winner": "張麗善",
+        "winner_party": "中國國民黨",
+        "winner_pct": 53.83,
+        "runner_up": "李進勇",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 41.72,
+        "margin": 12.11,
+        "candidates": [
+          {
+            "name": "張麗善",
+            "party": "中國國民黨",
+            "votes": 210770.0,
+            "pct": 53.83,
+            "win": true
+          },
+          {
+            "name": "李進勇",
+            "party": "民主進步黨",
+            "votes": 163325.0,
+            "pct": 41.72,
+            "win": false
+          },
+          {
+            "name": "王麗萍",
+            "party": "無黨籍",
+            "votes": 11261.0,
+            "pct": 2.88,
+            "win": false
+          },
+          {
+            "name": "林佳瑜",
+            "party": "無黨籍",
+            "votes": 6163.0,
+            "pct": 1.57,
+            "win": false
+          }
+        ],
+        "electorate": 565078.0,
+        "cast": 391519.0,
+        "turnout": 71.57
+      },
+      "2022": {
+        "winner": "張麗善",
+        "winner_party": "中國國民黨",
+        "winner_pct": 56.57,
+        "runner_up": "劉建國",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 41.6,
+        "margin": 14.97,
+        "candidates": [
+          {
+            "name": "張麗善",
+            "party": "中國國民黨",
+            "votes": 207519.0,
+            "pct": 56.57,
+            "win": true
+          },
+          {
+            "name": "劉建國",
+            "party": "民主進步黨",
+            "votes": 152620.0,
+            "pct": 41.6,
+            "win": false
+          },
+          {
+            "name": "林佳瑜",
+            "party": "無黨籍",
+            "votes": 6694.0,
+            "pct": 1.82,
+            "win": false
+          }
+        ],
+        "electorate": 559273.0,
+        "cast": 376649.0,
+        "turnout": 67.35
+      }
+    },
+    "嘉義縣": {
+      "2018": {
+        "winner": "翁章梁",
+        "winner_party": "民主進步黨",
+        "winner_pct": 50.95,
+        "runner_up": "吳育仁",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 29.54,
+        "margin": 21.41,
+        "candidates": [
+          {
+            "name": "翁章梁",
+            "party": "民主進步黨",
+            "votes": 145288.0,
+            "pct": 50.95,
+            "win": true
+          },
+          {
+            "name": "吳育仁",
+            "party": "中國國民黨",
+            "votes": 84243.0,
+            "pct": 29.54,
+            "win": false
+          },
+          {
+            "name": "吳芳銘",
+            "party": "無黨籍",
+            "votes": 51020.0,
+            "pct": 17.89,
+            "win": false
+          },
+          {
+            "name": "林國龍",
+            "party": "無黨籍",
+            "votes": 4596.0,
+            "pct": 1.61,
+            "win": false
+          }
+        ],
+        "electorate": 428649.0,
+        "cast": 285147.0,
+        "turnout": 70.75
+      },
+      "2022": {
+        "winner": "翁章梁",
+        "winner_party": "民主進步黨",
+        "winner_pct": 62.85,
+        "runner_up": "王育敏",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 37.15,
+        "margin": 25.7,
+        "candidates": [
+          {
+            "name": "翁章梁",
+            "party": "民主進步黨",
+            "votes": 171777.0,
+            "pct": 62.85,
+            "win": true
+          },
+          {
+            "name": "王育敏",
+            "party": "中國國民黨",
+            "votes": 101517.0,
+            "pct": 37.15,
+            "win": false
+          }
+        ],
+        "electorate": 422568.0,
+        "cast": 284490.0,
+        "turnout": 67.32
+      }
+    },
+    "屏東縣": {
+      "2018": {
+        "winner": "潘孟安",
+        "winner_party": "民主進步黨",
+        "winner_pct": 55.9,
+        "runner_up": "蘇清泉",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 42.01,
+        "margin": 13.89,
+        "candidates": [
+          {
+            "name": "潘孟安",
+            "party": "民主進步黨",
+            "votes": 262809.0,
+            "pct": 55.9,
+            "win": true
+          },
+          {
+            "name": "蘇清泉",
+            "party": "中國國民黨",
+            "votes": 197518.0,
+            "pct": 42.01,
+            "win": false
+          },
+          {
+            "name": "李鎔任",
+            "party": "無黨籍",
+            "votes": 9819.0,
+            "pct": 2.09,
+            "win": false
+          }
+        ],
+        "electorate": 689393.0,
+        "cast": 470146.0,
+        "turnout": 71.09
+      },
+      "2022": {
+        "winner": "周春米",
+        "winner_party": "民主進步黨",
+        "winner_pct": 49.09,
+        "runner_up": "蘇清泉",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 46.59,
+        "margin": 2.5,
+        "candidates": [
+          {
+            "name": "周春米",
+            "party": "民主進步黨",
+            "votes": 217537.0,
+            "pct": 49.09,
+            "win": true
+          },
+          {
+            "name": "蘇清泉",
+            "party": "中國國民黨",
+            "votes": 206460.0,
+            "pct": 46.59,
+            "win": false
+          },
+          {
+            "name": "詹智鈞",
+            "party": "無黨籍",
+            "votes": 19156.0,
+            "pct": 4.32,
+            "win": false
+          }
+        ],
+        "electorate": 679330.0,
+        "cast": 456382.0,
+        "turnout": 67.18
+      }
+    },
+    "宜蘭縣": {
+      "2018": {
+        "winner": "林姿妙",
+        "winner_party": "中國國民黨",
+        "winner_pct": 49.48,
+        "runner_up": "陳歐珀",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 38.23,
+        "margin": 11.25,
+        "candidates": [
+          {
+            "name": "林姿妙",
+            "party": "中國國民黨",
+            "votes": 123767.0,
+            "pct": 49.48,
+            "win": true
+          },
+          {
+            "name": "陳歐珀",
+            "party": "民主進步黨",
+            "votes": 95609.0,
+            "pct": 38.23,
+            "win": false
+          },
+          {
+            "name": "林信華",
+            "party": "無黨籍",
+            "votes": 27399.0,
+            "pct": 10.95,
+            "win": false
+          },
+          {
+            "name": "林錦坤",
+            "party": "無黨籍",
+            "votes": 1922.0,
+            "pct": 0.77,
+            "win": false
+          },
+          {
+            "name": "陳秋境",
+            "party": "無黨籍",
+            "votes": 1424.0,
+            "pct": 0.57,
+            "win": false
+          }
+        ],
+        "electorate": 373510.0,
+        "cast": 250121.0,
+        "turnout": 69.09
+      },
+      "2022": {
+        "winner": "林姿妙",
+        "winner_party": "中國國民黨",
+        "winner_pct": 50.76,
+        "runner_up": "江聰淵",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 41.13,
+        "margin": 9.63,
+        "candidates": [
+          {
+            "name": "林姿妙",
+            "party": "中國國民黨",
+            "votes": 119421.0,
+            "pct": 50.76,
+            "win": true
+          },
+          {
+            "name": "江聰淵",
+            "party": "民主進步黨",
+            "votes": 96779.0,
+            "pct": 41.13,
+            "win": false
+          },
+          {
+            "name": "陳琬惠",
+            "party": "台灣民眾黨",
+            "votes": 16412.0,
+            "pct": 6.98,
+            "win": false
+          },
+          {
+            "name": "許鋐哲",
+            "party": "無黨籍",
+            "votes": 1036.0,
+            "pct": 0.44,
+            "win": false
+          },
+          {
+            "name": "朱振東",
+            "party": "天一黨",
+            "votes": 919.0,
+            "pct": 0.39,
+            "win": false
+          },
+          {
+            "name": "陳秋境",
+            "party": "無黨籍",
+            "votes": 714.0,
+            "pct": 0.3,
+            "win": false
+          }
+        ],
+        "electorate": 374779.0,
+        "cast": 240916.0,
+        "turnout": 64.28
+      }
+    },
+    "花蓮縣": {
+      "2018": {
+        "winner": "徐榛蔚",
+        "winner_party": "中國國民黨",
+        "winner_pct": 71.52,
+        "runner_up": "劉曉玫",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 25.87,
+        "margin": 45.65,
+        "candidates": [
+          {
+            "name": "徐榛蔚",
+            "party": "中國國民黨",
+            "votes": 121297.0,
+            "pct": 71.52,
+            "win": true
+          },
+          {
+            "name": "劉曉玫",
+            "party": "民主進步黨",
+            "votes": 43879.0,
+            "pct": 25.87,
+            "win": false
+          },
+          {
+            "name": "黃師鵬",
+            "party": "無黨籍",
+            "votes": 4420.0,
+            "pct": 2.61,
+            "win": false
+          }
+        ],
+        "electorate": 268817.0,
+        "cast": 169596.0,
+        "turnout": 64.87
+      },
+      "2022": {
+        "winner": "徐榛蔚",
+        "winner_party": "中國國民黨",
+        "winner_pct": 64.73,
+        "runner_up": "谷辣斯·尤達卡",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 32.04,
+        "margin": 32.69,
+        "candidates": [
+          {
+            "name": "徐榛蔚",
+            "party": "中國國民黨",
+            "votes": 96645.0,
+            "pct": 64.73,
+            "win": true
+          },
+          {
+            "name": "谷辣斯·尤達卡",
+            "party": "民主進步黨",
+            "votes": 47845.0,
+            "pct": 32.04,
+            "win": false
+          },
+          {
+            "name": "黃師鵬",
+            "party": "無黨籍",
+            "votes": 4817.0,
+            "pct": 3.23,
+            "win": false
+          }
+        ],
+        "electorate": 266058.0,
+        "cast": 153138.0,
+        "turnout": 57.56
+      }
+    },
+    "臺東縣": {
+      "2018": {
+        "winner": "饒慶鈴",
+        "winner_party": "中國國民黨",
+        "winner_pct": 59.05,
+        "runner_up": "劉櫂豪",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 37.04,
+        "margin": 22.01,
+        "candidates": [
+          {
+            "name": "饒慶鈴",
+            "party": "中國國民黨",
+            "votes": 70577.0,
+            "pct": 59.05,
+            "win": true
+          },
+          {
+            "name": "劉櫂豪",
+            "party": "民主進步黨",
+            "votes": 44264.0,
+            "pct": 37.04,
+            "win": false
+          },
+          {
+            "name": "鄺麗貞",
+            "party": "無黨籍",
+            "votes": 3049.0,
+            "pct": 2.55,
+            "win": false
+          },
+          {
+            "name": "彭權國",
+            "party": "無黨籍",
+            "votes": 988.0,
+            "pct": 0.83,
+            "win": false
+          },
+          {
+            "name": "黃裕斌",
+            "party": "無黨籍",
+            "votes": 640.0,
+            "pct": 0.54,
+            "win": false
+          }
+        ],
+        "electorate": 179706.0,
+        "cast": 119518.0,
+        "turnout": 68.33
+      },
+      "2022": {
+        "winner": "饒慶鈴",
+        "winner_party": "中國國民黨",
+        "winner_pct": 61.22,
+        "runner_up": "劉櫂豪",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 36.65,
+        "margin": 24.57,
+        "candidates": [
+          {
+            "name": "饒慶鈴",
+            "party": "中國國民黨",
+            "votes": 68661.0,
+            "pct": 61.22,
+            "win": true
+          },
+          {
+            "name": "劉櫂豪",
+            "party": "民主進步黨",
+            "votes": 41104.0,
+            "pct": 36.65,
+            "win": false
+          },
+          {
+            "name": "陳長宏",
+            "party": "無黨籍",
+            "votes": 2383.0,
+            "pct": 2.12,
+            "win": false
+          }
+        ],
+        "electorate": 177853.0,
+        "cast": 115226.0,
+        "turnout": 64.79
+      }
+    },
+    "澎湖縣": {
+      "2018": {
+        "winner": "賴峰偉",
+        "winner_party": "中國國民黨",
+        "winner_pct": 38.87,
+        "runner_up": "陳光復",
+        "runner_up_party": "民主進步黨",
+        "runner_up_pct": 32.78,
+        "margin": 6.09,
+        "candidates": [
+          {
+            "name": "賴峰偉",
+            "party": "中國國民黨",
+            "votes": 20570.0,
+            "pct": 38.87,
+            "win": true
+          },
+          {
+            "name": "陳光復",
+            "party": "民主進步黨",
+            "votes": 17347.0,
+            "pct": 32.78,
+            "win": false
+          },
+          {
+            "name": "陳大松",
+            "party": "無黨籍",
+            "votes": 5822.0,
+            "pct": 11.0,
+            "win": false
+          },
+          {
+            "name": "鄭清發",
+            "party": "無黨籍",
+            "votes": 4330.0,
+            "pct": 8.18,
+            "win": false
+          },
+          {
+            "name": "吳政隆",
+            "party": "無黨籍",
+            "votes": 2999.0,
+            "pct": 5.67,
+            "win": false
+          },
+          {
+            "name": "翁珍聖",
+            "party": "無黨籍",
+            "votes": 1379.0,
+            "pct": 2.61,
+            "win": false
+          },
+          {
+            "name": "呂華苑",
+            "party": "無黨籍",
+            "votes": 468.0,
+            "pct": 0.88,
+            "win": false
+          }
+        ],
+        "electorate": 86603.0,
+        "cast": 52915.0,
+        "turnout": 62.88
+      },
+      "2022": {
+        "winner": "陳光復",
+        "winner_party": "民主進步黨",
+        "winner_pct": 36.64,
+        "runner_up": "賴峰偉",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 33.33,
+        "margin": 3.31,
+        "candidates": [
+          {
+            "name": "陳光復",
+            "party": "民主進步黨",
+            "votes": 18777.0,
+            "pct": 36.64,
+            "win": true
+          },
+          {
+            "name": "賴峰偉",
+            "party": "中國國民黨",
+            "votes": 17081.0,
+            "pct": 33.33,
+            "win": false
+          },
+          {
+            "name": "葉竹林",
+            "party": "無黨籍",
+            "votes": 15384.0,
+            "pct": 30.02,
+            "win": false
+          }
+        ],
+        "electorate": 90360.0,
+        "cast": 52870.0,
+        "turnout": 58.51
+      }
+    },
+    "金門縣": {
+      "2018": {
+        "winner": "楊鎮浯",
+        "winner_party": "中國國民黨",
+        "winner_pct": 47.78,
+        "runner_up": "陳福海",
+        "runner_up_party": "無黨籍",
+        "runner_up_pct": 46.15,
+        "margin": 1.63,
+        "candidates": [
+          {
+            "name": "楊鎮浯",
+            "party": "中國國民黨",
+            "votes": 23520.0,
+            "pct": 47.78,
+            "win": true
+          },
+          {
+            "name": "陳福海",
+            "party": "無黨籍",
+            "votes": 22719.0,
+            "pct": 46.15,
+            "win": false
+          },
+          {
+            "name": "謝宜璋",
+            "party": "無黨籍",
+            "votes": 1389.0,
+            "pct": 2.82,
+            "win": false
+          },
+          {
+            "name": "洪志恒",
+            "party": "20px 金門高粱黨",
+            "votes": 832.0,
+            "pct": 1.69,
+            "win": false
+          },
+          {
+            "name": "汪承樺",
+            "party": "教科文預算保障e聯盟",
+            "votes": 403.0,
+            "pct": 0.82,
+            "win": false
+          },
+          {
+            "name": "洪和成",
+            "party": "無黨籍",
+            "votes": 366.0,
+            "pct": 0.74,
+            "win": false
+          }
+        ],
+        "electorate": 117913.0,
+        "cast": 49229.0,
+        "turnout": 42.76
+      },
+      "2022": {
+        "winner": "陳福海",
+        "winner_party": "無黨籍",
+        "winner_pct": 49.34,
+        "runner_up": "楊鎮浯",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 41.05,
+        "margin": 8.29,
+        "candidates": [
+          {
+            "name": "陳福海",
+            "party": "無黨籍",
+            "votes": 23248.0,
+            "pct": 49.34,
+            "win": true
+          },
+          {
+            "name": "楊鎮浯",
+            "party": "中國國民黨",
+            "votes": 19340.0,
+            "pct": 41.05,
+            "win": false
+          },
+          {
+            "name": "李應文",
+            "party": "無黨籍",
+            "votes": 3459.0,
+            "pct": 7.34,
+            "win": false
+          },
+          {
+            "name": "洪志-{恒}-",
+            "party": "無黨籍",
+            "votes": 752.0,
+            "pct": 1.6,
+            "win": false
+          },
+          {
+            "name": "朱紀瑋",
+            "party": "龍黨",
+            "votes": 174.0,
+            "pct": 0.37,
+            "win": false
+          },
+          {
+            "name": "林志錦",
+            "party": "無黨籍",
+            "votes": 141.0,
+            "pct": 0.3,
+            "win": false
+          }
+        ],
+        "electorate": 122294.0,
+        "cast": 48089.0,
+        "turnout": 39.32
+      }
+    },
+    "連江縣": {
+      "2018": {
+        "winner": "劉增應",
+        "winner_party": "中國國民黨",
+        "winner_pct": 65.62,
+        "runner_up": "朱秀珍",
+        "runner_up_party": "無黨籍",
+        "runner_up_pct": 17.33,
+        "margin": 48.29,
+        "candidates": [
+          {
+            "name": "劉增應",
+            "party": "中國國民黨",
+            "votes": 4861.0,
+            "pct": 65.62,
+            "win": true
+          },
+          {
+            "name": "朱秀珍",
+            "party": "無黨籍",
+            "votes": 1284.0,
+            "pct": 17.33,
+            "win": false
+          },
+          {
+            "name": "蘇柏豪",
+            "party": "無黨籍",
+            "votes": 927.0,
+            "pct": 12.51,
+            "win": false
+          },
+          {
+            "name": "魏耀-{乾}-",
+            "party": "無黨籍",
+            "votes": 336.0,
+            "pct": 4.54,
+            "win": false
+          }
+        ],
+        "electorate": 10773.0,
+        "cast": 7408.0,
+        "turnout": 71.31
+      },
+      "2022": {
+        "winner": "王忠銘",
+        "winner_party": "中國國民黨",
+        "winner_pct": 50.99,
+        "runner_up": "曹爾元",
+        "runner_up_party": "中國國民黨",
+        "runner_up_pct": 42.12,
+        "margin": 8.87,
+        "candidates": [
+          {
+            "name": "王忠銘",
+            "party": "中國國民黨",
+            "votes": 4337.0,
+            "pct": 50.99,
+            "win": true
+          },
+          {
+            "name": "曹爾元",
+            "party": "中國國民黨",
+            "votes": 3582.0,
+            "pct": 42.12,
+            "win": false
+          },
+          {
+            "name": "李問",
+            "party": "民主進步黨",
+            "votes": 586.0,
+            "pct": 6.89,
+            "win": false
+          }
+        ],
+        "electorate": 11810.0,
+        "cast": 8620.0,
+        "turnout": 72.99
+      }
+    }
+  }
+}

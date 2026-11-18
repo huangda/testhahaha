@@ -1,0 +1,638 @@
+{
+  "meta": {
+    "note": "以 2018/2022 縣市長選舉的選前民調回測，logistic 校準 P(民調領先者當選 | 領先幅度)",
+    "window_days": 90,
+    "updated_at": "2026-10-16"
+  },
+  "model": {
+    "slope": 0.27504,
+    "intercept": -0.59802,
+    "curve": {
+      "0": 0.3548,
+      "1": 0.4199,
+      "2": 0.488,
+      "3": 0.5565,
+      "5": 0.6851,
+      "8": 0.8323,
+      "10": 0.8959,
+      "15": 0.9715,
+      "20": 0.9926,
+      "30": 0.9995
+    }
+  },
+  "metrics": {
+    "n": 39,
+    "brier": 0.1044,
+    "baseline_brier": 0.1631,
+    "skill": 0.3598,
+    "accuracy": 0.8462
+  },
+  "observations": [
+    {
+      "year": 2018,
+      "region": "南投縣",
+      "leader": "林明溱",
+      "runner_up": "洪國浩",
+      "margin": 35.4,
+      "leader_won": true,
+      "winner": "林明溱",
+      "date": "2018-10-29",
+      "source": "旺旺中時",
+      "matchup": [
+        "林明溱",
+        "洪國浩"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "嘉義市",
+      "leader": "黃敏惠",
+      "runner_up": "涂醒哲",
+      "margin": 3.0,
+      "leader_won": true,
+      "winner": "黃敏惠",
+      "date": "2018-11-07",
+      "source": "聯合報系7",
+      "matchup": [
+        "涂醒哲",
+        "蕭淑麗",
+        "黃敏惠"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "嘉義縣",
+      "leader": "翁章梁",
+      "runner_up": "吳育仁",
+      "margin": 6.5,
+      "leader_won": true,
+      "winner": "翁章梁",
+      "date": "2018-09-24",
+      "source": "東森新聞",
+      "matchup": [
+        "吳育仁",
+        "吳芳銘",
+        "林國龍",
+        "翁章梁"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "基隆市",
+      "leader": "林右昌",
+      "runner_up": "謝立功",
+      "margin": 12.7,
+      "leader_won": true,
+      "winner": "林右昌",
+      "date": "2018-10-29",
+      "source": "全國公信力",
+      "matchup": [
+        "林右昌",
+        "謝立功"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "宜蘭縣",
+      "leader": "林姿妙",
+      "runner_up": "陳歐珀",
+      "margin": 17.7,
+      "leader_won": true,
+      "winner": "林姿妙",
+      "date": "2018-11-11",
+      "source": "台灣指標7",
+      "matchup": [
+        "林信華",
+        "林姿妙",
+        "陳歐珀"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "屏東縣",
+      "leader": "潘孟安",
+      "runner_up": "蘇清泉",
+      "margin": 22.3,
+      "leader_won": true,
+      "winner": "潘孟安",
+      "date": "2018-11-10",
+      "source": "台灣指標3",
+      "matchup": [
+        "潘孟安",
+        "蘇清泉"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "彰化縣",
+      "leader": "魏明谷",
+      "runner_up": "王惠美",
+      "margin": 2.0,
+      "leader_won": false,
+      "winner": "王惠美",
+      "date": "2018-11-09",
+      "source": "三立7",
+      "matchup": [
+        "王惠美",
+        "魏明谷",
+        "黃文玲"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "新竹市",
+      "leader": "林智堅",
+      "runner_up": "謝文進",
+      "margin": 3.5,
+      "leader_won": true,
+      "winner": "林智堅",
+      "date": "2018-11-06",
+      "source": "謝文進團隊",
+      "matchup": [
+        "林智堅",
+        "許明財",
+        "謝文進"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "新竹縣",
+      "leader": "徐欣瑩",
+      "runner_up": "楊文科",
+      "margin": 3.0,
+      "leader_won": false,
+      "winner": "楊文科",
+      "date": "2018-11-11",
+      "source": "展欣科技",
+      "matchup": [
+        "徐欣瑩",
+        "楊文科",
+        "鄭朝方"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "桃園市",
+      "leader": "鄭文燦",
+      "runner_up": "陳學聖",
+      "margin": 18.3,
+      "leader_won": true,
+      "winner": "鄭文燦",
+      "date": "2018-11-08",
+      "source": "東森新聞",
+      "matchup": [
+        "楊麗環",
+        "鄭文燦",
+        "陳學聖"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "澎湖縣",
+      "leader": "賴峰偉",
+      "runner_up": "陳光復",
+      "margin": 8.4,
+      "leader_won": true,
+      "winner": "賴峰偉",
+      "date": "2018-10-17",
+      "source": "世新大學2",
+      "matchup": [
+        "賴峰偉",
+        "陳光復"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "臺中市",
+      "leader": "盧秀燕",
+      "runner_up": "林佳龍",
+      "margin": 2.0,
+      "leader_won": true,
+      "winner": "盧秀燕",
+      "date": "2018-11-12",
+      "source": "TVBS16",
+      "matchup": [
+        "林佳龍",
+        "盧秀燕"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "臺北市",
+      "leader": "柯文哲",
+      "runner_up": "丁守中",
+      "margin": 3.0,
+      "leader_won": true,
+      "winner": "柯文哲",
+      "date": "2018-11-11",
+      "source": "TVBS",
+      "matchup": [
+        "丁守中",
+        "姚文智",
+        "柯文哲"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "臺南市",
+      "leader": "高思博",
+      "runner_up": "黃偉哲",
+      "margin": 1.2,
+      "leader_won": false,
+      "winner": "黃偉哲",
+      "date": "2018-11-09",
+      "source": "畢肯23",
+      "matchup": [
+        "林義豐",
+        "高思博",
+        "黃偉哲"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "臺東縣",
+      "leader": "饒慶鈴",
+      "runner_up": "劉櫂豪",
+      "margin": 10.8,
+      "leader_won": true,
+      "winner": "饒慶鈴",
+      "date": "2018-10-21",
+      "source": "東森新聞3",
+      "matchup": [
+        "劉櫂豪",
+        "饒慶鈴"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "花蓮縣",
+      "leader": "徐榛蔚",
+      "runner_up": "劉曉玫",
+      "margin": 8.1,
+      "leader_won": true,
+      "winner": "徐榛蔚",
+      "date": "2018-11-13",
+      "source": "劉曉玫團隊",
+      "matchup": [
+        "劉曉玫",
+        "徐榛蔚"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "苗栗縣",
+      "leader": "徐耀昌",
+      "runner_up": "徐定禎",
+      "margin": 34.4,
+      "leader_won": true,
+      "winner": "徐耀昌",
+      "date": "2018-11-05",
+      "source": "旺旺中時1",
+      "matchup": [
+        "徐定禎",
+        "徐耀昌"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "雲林縣",
+      "leader": "李進勇",
+      "runner_up": "張麗善",
+      "margin": 2.3,
+      "leader_won": false,
+      "winner": "張麗善",
+      "date": "2018-11-02",
+      "source": "全國公信力2",
+      "matchup": [
+        "張麗善",
+        "李進勇"
+      ]
+    },
+    {
+      "year": 2018,
+      "region": "高雄市",
+      "leader": "陳其邁",
+      "runner_up": "韓國瑜",
+      "margin": 3.1,
+      "leader_won": false,
+      "winner": "韓國瑜",
+      "date": "2018-11-12",
+      "source": "三立20",
+      "matchup": [
+        "陳其邁",
+        "韓國瑜"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "南投縣",
+      "leader": "許淑華",
+      "runner_up": "蔡培慧",
+      "margin": 14.7,
+      "leader_won": true,
+      "winner": "許淑華",
+      "date": "2022-11-08",
+      "source": "艾普羅",
+      "matchup": [
+        "蔡培慧",
+        "許淑華"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "嘉義市",
+      "leader": "黃敏惠",
+      "runner_up": "李俊俋",
+      "margin": 31.58,
+      "leader_won": true,
+      "winner": "黃敏惠",
+      "date": "2022-10-22",
+      "source": "菱傳媒",
+      "matchup": [
+        "李俊俋",
+        "黃敏惠"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "嘉義縣",
+      "leader": "翁章梁",
+      "runner_up": "王育敏",
+      "margin": 16.16,
+      "leader_won": true,
+      "winner": "翁章梁",
+      "date": "2022-10-22",
+      "source": "菱傳媒",
+      "matchup": [
+        "王育敏",
+        "翁章梁"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "基隆市",
+      "leader": "蔡適應",
+      "runner_up": "謝國樑",
+      "margin": 3.4,
+      "leader_won": false,
+      "winner": "謝國樑",
+      "date": "2022-10-26",
+      "source": "中華亞太菁英交流協會",
+      "matchup": [
+        "蔡適應",
+        "謝國樑",
+        "陳薇仲",
+        "黃希賢"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "宜蘭縣",
+      "leader": "林姿妙",
+      "runner_up": "江聰淵",
+      "margin": 11.0,
+      "leader_won": true,
+      "winner": "林姿妙",
+      "date": "2022-11-08",
+      "source": "TVBS",
+      "matchup": [
+        "林姿妙",
+        "江聰淵",
+        "陳琬惠"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "屏東縣",
+      "leader": "周春米",
+      "runner_up": "蘇清泉",
+      "margin": 25.0,
+      "leader_won": true,
+      "winner": "周春米",
+      "date": "2022-11-05",
+      "source": "民進黨",
+      "matchup": [
+        "周春米",
+        "蘇清泉",
+        "詹智鈞"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "彰化縣",
+      "leader": "王惠美",
+      "runner_up": "黃秀芳",
+      "margin": 26.39,
+      "leader_won": true,
+      "winner": "王惠美",
+      "date": "2022-09-24",
+      "source": "菱傳媒",
+      "matchup": [
+        "王惠美",
+        "黃秀芳"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "新北市",
+      "leader": "侯友宜",
+      "runner_up": "林佳龍",
+      "margin": 19.5,
+      "leader_won": true,
+      "winner": "侯友宜",
+      "date": "2022-11-14",
+      "source": "ETtoday",
+      "matchup": [
+        "侯友宜",
+        "林佳龍"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "新竹市",
+      "leader": "高虹安",
+      "runner_up": "沈慧虹",
+      "margin": 5.0,
+      "leader_won": true,
+      "winner": "高虹安",
+      "date": "2022-11-12",
+      "source": "TVBS",
+      "matchup": [
+        "林耕仁",
+        "沈慧虹",
+        "高虹安"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "新竹縣",
+      "leader": "楊文科",
+      "runner_up": "周江-{杰}-",
+      "margin": 15.37,
+      "leader_won": true,
+      "winner": "楊文科",
+      "date": "2022-10-08",
+      "source": "菱傳媒",
+      "matchup": [
+        "周江-{杰}-",
+        "楊文科"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "桃園市",
+      "leader": "張善政",
+      "runner_up": "林智堅",
+      "margin": 2.9,
+      "leader_won": true,
+      "winner": "張善政",
+      "date": "2022-11-14",
+      "source": "ETtoday",
+      "matchup": [
+        "張善政",
+        "林智堅",
+        "賴香伶"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "澎湖縣",
+      "leader": "葉竹林",
+      "runner_up": "賴峰偉",
+      "margin": 0.2,
+      "leader_won": false,
+      "winner": "陳光復",
+      "date": "2022-10-25",
+      "source": "視拓商業資訊",
+      "matchup": [
+        "葉竹林",
+        "賴峰偉",
+        "陳光復"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "臺中市",
+      "leader": "盧秀燕",
+      "runner_up": "蔡其昌",
+      "margin": 24.8,
+      "leader_won": true,
+      "winner": "盧秀燕",
+      "date": "2022-11-14",
+      "source": "ETtoday",
+      "matchup": [
+        "盧秀燕",
+        "蔡其昌"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "臺北市",
+      "leader": "蔣萬安",
+      "runner_up": "陳時中",
+      "margin": 11.0,
+      "leader_won": true,
+      "winner": "蔣萬安",
+      "date": "2022-11-14",
+      "source": "TVBS",
+      "matchup": [
+        "蔣萬安",
+        "陳時中",
+        "黃珊珊"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "臺南市",
+      "leader": "黃偉哲",
+      "runner_up": "謝龍介",
+      "margin": 17.1,
+      "leader_won": true,
+      "winner": "黃偉哲",
+      "date": "2022-11-14",
+      "source": "ETtoday",
+      "matchup": [
+        "謝龍介",
+        "黃偉哲"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "臺東縣",
+      "leader": "饒慶鈴",
+      "runner_up": "劉櫂豪",
+      "margin": 24.87,
+      "leader_won": true,
+      "winner": "饒慶鈴",
+      "date": "2022-10-15",
+      "source": "菱傳媒",
+      "matchup": [
+        "劉櫂豪",
+        "饒慶鈴"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "苗栗縣",
+      "leader": "鍾東錦",
+      "runner_up": "徐定禎",
+      "margin": 4.12,
+      "leader_won": true,
+      "winner": "鍾東錦",
+      "date": "2022-11-14",
+      "source": "蓋洛普",
+      "matchup": [
+        "宋國鼎",
+        "徐定禎",
+        "謝福弘",
+        "鍾東錦"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "金門縣",
+      "leader": "楊鎮浯",
+      "runner_up": "陳福海",
+      "margin": 12.4,
+      "leader_won": false,
+      "winner": "陳福海",
+      "date": "2022-11-13",
+      "source": "全國公信力",
+      "matchup": [
+        "李應文",
+        "楊鎮浯",
+        "陳福海"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "雲林縣",
+      "leader": "張麗善",
+      "runner_up": "劉建國",
+      "margin": 13.7,
+      "leader_won": true,
+      "winner": "張麗善",
+      "date": "2022-09-25",
+      "source": "三立",
+      "matchup": [
+        "劉建國",
+        "張麗善"
+      ]
+    },
+    {
+      "year": 2022,
+      "region": "高雄市",
+      "leader": "陳其邁",
+      "runner_up": "柯志恩",
+      "margin": 21.5,
+      "leader_won": true,
+      "winner": "陳其邁",
+      "date": "2022-11-14",
+      "source": "ETtoday",
+      "matchup": [
+        "柯志恩",
+        "陳其邁"
+      ]
+    }
+  ]
+}

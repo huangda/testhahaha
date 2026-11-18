@@ -1,0 +1,4766 @@
+{
+  "meta": {
+    "generated_at": "2026-11-03 23:42",
+    "note": "乡镇市长：中选会 115 年候选人登记汇总表（姓名/政党/登记日期，2026-09-07）。新北、宜兰已有每区里数；其余县市先列乡镇市区与乡镇市长候选人，村里数待后续官方资料补齐。",
+    "sources": {
+      "town_city": "https://web.cec.gov.tw/api/file/a7b4f3d3-dad3-4e61-9036-2cd21cf29d92.pdf",
+      "town_county": "https://web.cec.gov.tw/api/file/1278f66e-1d15-4ecf-aeeb-9ea5cba61f00.pdf",
+      "villages": "zh.wikipedia 各乡镇市区条目「区划」栏 + 2026年中華民國村里長選舉"
+    }
+  },
+  "regions": {
+    "臺北市": {
+      "code": "TPE",
+      "towns": [],
+      "mayor_seats": 0,
+      "mayor_candidates": 0,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "新北市": {
+      "code": "NTPC",
+      "towns": [
+        {
+          "name": "板橋區",
+          "villages": 126,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "三重區",
+          "villages": 119,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "中和區",
+          "villages": 93,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "永和區",
+          "villages": 62,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "新莊區",
+          "villages": 84,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "新店區",
+          "villages": 69,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "樹林區",
+          "villages": 42,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "鶯歌區",
+          "villages": 20,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "三峽區",
+          "villages": 28,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "淡水區",
+          "villages": 44,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "汐止區",
+          "villages": 50,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "瑞芳區",
+          "villages": 34,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "土城區",
+          "villages": 47,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "蘆洲區",
+          "villages": 38,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "五股區",
+          "villages": 21,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "泰山區",
+          "villages": 17,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "林口區",
+          "villages": 21,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "深坑區",
+          "villages": 8,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "石碇區",
+          "villages": 12,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "坪林區",
+          "villages": 7,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "三芝區",
+          "villages": 13,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "石門區",
+          "villages": 9,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "八里區",
+          "villages": 10,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "平溪區",
+          "villages": 12,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "雙溪區",
+          "villages": 12,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "貢寮區",
+          "villages": 11,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "金山區",
+          "villages": 15,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "萬里區",
+          "villages": 10,
+          "candidates": [],
+          "parties": {}
+        },
+        {
+          "name": "烏來區",
+          "villages": 5,
+          "candidates": [
+            {
+              "name": "周志國",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "周至剛",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "施俊雄",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        }
+      ],
+      "mayor_seats": 29,
+      "mayor_candidates": 3,
+      "villages_total": 1032,
+      "villages_counted": 1039
+    },
+    "桃園市": {
+      "code": "TYN",
+      "towns": [
+        {
+          "name": "復興區",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蘇佐璽",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        }
+      ],
+      "mayor_seats": 1,
+      "mayor_candidates": 1,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "臺中市": {
+      "code": "TXG",
+      "towns": [
+        {
+          "name": "和平區",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林吉財",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "陳文書",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "簡正忠",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "羅清輝",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "吳天祐",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "陳茂井",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 6
+          }
+        }
+      ],
+      "mayor_seats": 1,
+      "mayor_candidates": 6,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "臺南市": {
+      "code": "TNN",
+      "towns": [],
+      "mayor_seats": 0,
+      "mayor_candidates": 0,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "高雄市": {
+      "code": "KHH",
+      "towns": [
+        {
+          "name": "桃源區",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "杜司偉AndrewIsbabanal",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "陳德福",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "張志誠Haisul·Ispalavi",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "伊斯坦大·貝雅夫·正福Istanda·Paingav",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 4
+          }
+        },
+        {
+          "name": "茂林區",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "駱韋志",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "那瑪夏區",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "孔賢傑",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        }
+      ],
+      "mayor_seats": 3,
+      "mayor_candidates": 6,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "基隆市": {
+      "code": "KEL",
+      "towns": [],
+      "mayor_seats": 0,
+      "mayor_candidates": 0,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "新竹市": {
+      "code": "HSC",
+      "towns": [],
+      "mayor_seats": 0,
+      "mayor_candidates": 0,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "嘉義市": {
+      "code": "CYI",
+      "towns": [],
+      "mayor_seats": 0,
+      "mayor_candidates": 0,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "新竹縣": {
+      "code": "HSQ",
+      "towns": [
+        {
+          "name": "五峰鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "秋維書",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1
+          }
+        },
+        {
+          "name": "北埔鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "徐鏡明",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "湯惠鈴",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "吳聲煒",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            },
+            {
+              "name": "楊葵琇",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "寶山鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "鍾金霖",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "邱振瑋",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "尖石鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "楊仕龍",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "江彩華",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "劉建民",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "峨眉鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "江寧增",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "温修汝",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "林文秀",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "陳壬龍",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 2,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "新埔鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳英樓",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "楊興和",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "新豐鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "徐煒傑",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "鄭旭凱",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "何智達",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "橫山鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "古鋓明",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "朱陳源",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 2
+          }
+        },
+        {
+          "name": "湖口鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "吳淑君",
+              "party": "中國國民黨",
+              "date": "115/09/01"
+            },
+            {
+              "name": "陳美仁",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "竹北市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "李貞秀",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "邱臣遠",
+              "party": "台灣民眾黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "吳旭智",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "曾聖凱",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "台灣民眾黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "竹東鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "郭遠彰",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "范國威",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "芎林鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳星宏",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1
+          }
+        },
+        {
+          "name": "關西鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳光彩",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "劉德樑",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        }
+      ],
+      "mayor_seats": 13,
+      "mayor_candidates": 32,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "苗栗縣": {
+      "code": "MIA",
+      "towns": [
+        {
+          "name": "三灣鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳光洋",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "李運光",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "廖芳毅",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "三義鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "徐文達",
+              "party": "中國國民黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "林盈富",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "鄭淑如",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 2,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "公館鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "葉美惠",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "卓蘭鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "詹秉憲",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "陳春暖",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "南庄鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蕭正燕",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "邱梓增",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "大湖鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃惠琴",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "謝見德",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "後龍鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "謝清輝",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "泰安鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳吉基",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "簡德祥",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "獅潭鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "劉淑能",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "竹南鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "葉忠倫",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "何秀綿",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "苑裡鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "張顧礫",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "劉育育",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "陳宏欣",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "苗栗市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "禹耀東",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "余文忠",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "楊燕梅",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "林月琴",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "西湖鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "郭豐文",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "古秋雲",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "通霄鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "巫恒昭",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "張可欣",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "造橋鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "古育誌",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "彭森華",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "銅鑼鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "徐裕逢",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "李瑞廷",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "黃芳椿",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "林九炲",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 3,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "頭份市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "曾玟學",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "徐功凡",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "頭屋鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "涂金臺",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "江貴熙",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        }
+      ],
+      "mayor_seats": 18,
+      "mayor_candidates": 40,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "彰化縣": {
+      "code": "CHA",
+      "towns": [
+        {
+          "name": "二林鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "許杰霖",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "陳一惇",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "吳聰明",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "二水鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "許敏適",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "羅森澤",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "伸港鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黄永欽",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "柯智偉",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "北斗鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "顏宏霖",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "楊麗香",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "和美鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林庚壬",
+              "party": "中國國民黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "葉嘉旭",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "員林市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "張裕國",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "凃俊任",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "張政岳",
+              "party": "民主進步黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "埔心鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "張佩瑩",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "埔鹽鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "施建樑",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1
+          }
+        },
+        {
+          "name": "埤頭鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "張景舜",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "張文良",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "許豊麟",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "大城鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳玉照",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "吳井萱",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "大村鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "賴茂勝",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "賴志銘",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "游盛",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "彰化市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳文賓",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "黃柏瑜",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "永靖鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "魏碩衛",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "林致安",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "溪州鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "劉侑信",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "巫宛萍",
+              "party": "民主進步黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "溪湖鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳貞妃",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "何炳樺",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "田中鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蕭淑芬",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "江宥增",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "田尾鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "劉美蘭",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "許淑美",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "社頭鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蕭浚二",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1
+          }
+        },
+        {
+          "name": "福興鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳文福",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "黃椿𩃀",
+              "party": "民主進步黨",
+              "date": "115/09/01"
+            },
+            {
+              "name": "黃俊源",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "秀水鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "葉國雄",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "鄭倫杰",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "竹塘鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林淑女",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "詹光信",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "戴孟書",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "線西鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林國華",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "鐘帷茲",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "黃漢皇",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "黃玉郎",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "芬園鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "郭哲榮",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "洪千芸",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "花壇鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "沈文盛",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "葉繼元",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "芳苑鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林保玲",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "鹿港鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "楊妙月",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "施佩妤",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        }
+      ],
+      "mayor_seats": 26,
+      "mayor_candidates": 56,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "南投縣": {
+      "code": "NTO",
+      "towns": [
+        {
+          "name": "中寮鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "周俊霖",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "張永輝",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "仁愛鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林瑞祥",
+              "party": "台灣民眾黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "江子信",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "台灣民眾黨": 1
+          }
+        },
+        {
+          "name": "信義鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "全秋雄",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "全志明",
+              "party": "中國國民黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "松學海",
+              "party": "Manan‧",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "Manan‧": 1,
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "南投市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林富紳",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "張嘉哲",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "沈夙崢",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "名間鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蔡宗智",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "陳翰立",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "國姓鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "邱美玲",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "李明杰",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "埔里鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "葉仁創",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "黃世芳",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "水里鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "王銀斗",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "詹淵州",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "葉銘豐",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "陳癸佑",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 4
+          }
+        },
+        {
+          "name": "竹山鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蔡孟娥",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "林賜學",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "余志嘉",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "草屯鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "張媛婷",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "簡賜勝",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "集集鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳紀衡",
+              "party": "民主進步黨",
+              "date": "115/09/01"
+            },
+            {
+              "name": "吳大村",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "魚池鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "王若嵐",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "黃莠馨",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "鹿谷鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "康誌合",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "邱紹偉",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "林智鴻",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        }
+      ],
+      "mayor_seats": 13,
+      "mayor_candidates": 32,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "雲林縣": {
+      "code": "YUN",
+      "towns": [
+        {
+          "name": "二崙鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "廖文彬",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "詹深洲",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "楊創民",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "元長鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳中一",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "李宗懋",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "北港鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "吳建璋",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "吳雅雯",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "蕭美文",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "口湖鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "邱月鳳",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "李龍飛",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "郭佳佩",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "古坑鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林慧如",
+              "party": "民主進步黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "沈勝騰",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "四湖鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "吳勁葦",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "吳東旻",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "蔡源誠",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "土庫鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳特凱",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "大埤鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃富昭",
+              "party": "中國國民黨",
+              "date": "115/09/01"
+            },
+            {
+              "name": "陳世彬",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "謝憲昇",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "崙背鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蔡旺源",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "斗六市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃尤美",
+              "party": "中國國民黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "賴淑娞",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            },
+            {
+              "name": "尹令瑛",
+              "party": "民主進步黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "斗南鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "歐月香",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "彭新銘",
+              "party": "司法改革黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "簡慈坊",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "顏忠義",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "司法改革黨": 1,
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "東勢鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "張健福",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "林當事",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "許嵩靂",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "林內鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "張維崢",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "劉姿言",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "水林鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳文正",
+              "party": "民主進步黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "周資昀",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "蘇正中",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "臺西鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "李文來",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "許常鎮",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "莿桐鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "廖秋蓉",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "張雅萍",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "虎尾鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林嘉弘",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "褒忠鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃麗花",
+              "party": "中國國民黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "蘇宇曦",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "蘇昆隆",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "西螺鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "廖秋萍",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "蕭德恕",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "麥寮鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "許金保",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "許忠富",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "林慧芹",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        }
+      ],
+      "mayor_seats": 20,
+      "mayor_candidates": 49,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "嘉義縣": {
+      "code": "CYQ",
+      "towns": [
+        {
+          "name": "中埔鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "王俊智",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "李碧雲",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "六腳鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃鉦凱",
+              "party": "民主進步黨",
+              "date": "115/09/01"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "大埔鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "吳倚豪",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "大林鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "許有疆",
+              "party": "民主進步黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "太保市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "鄭淑分",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "呂慧瑜",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "布袋鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蔡瑋傑",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "陳全明",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "新港鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "葉孟龍",
+              "party": "民主進步黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "陳木焜",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "朴子市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃嫈珺",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "王如經",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "東石鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林俊雄",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "梅山鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳信文",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "吳福仁",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "民雄鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林于玲",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "陳琮貽",
+              "party": "民主進步黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "水上鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林緗亭",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "陳德榮",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "溪口鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "劉雅文",
+              "party": "民主進步黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "陳志明",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "王梅蜂",
+              "party": "嘉意公益黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "蘇俊榮",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "嘉意公益黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "番路鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蕭博勝",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "竹崎鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "何子凡",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "陳宏吉",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "邱豐銘",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "葉志紘",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "義竹鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "翁雲",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "黃政傑",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "阿里山鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "高瑞芳",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "鹿草鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "吳玉琴",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "黃軒凱",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        }
+      ],
+      "mayor_seats": 18,
+      "mayor_candidates": 34,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "屏東縣": {
+      "code": "PIF",
+      "towns": [
+        {
+          "name": "三地門鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "謝李雲山",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "陳忠雄",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "車牧勒薩以",
+              "party": "‧拉勒格安",
+              "date": "115/09/01"
+            },
+            {
+              "name": "謝志鴻",
+              "party": "pasulang",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "pasulang": 1,
+            "‧拉勒格安": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "九如鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "藍聰信",
+              "party": "民主進步黨",
+              "date": "115/08/31"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "佳冬鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "賴文一",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "來義鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "曾譯影",
+              "party": "中國國民黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "許蘭花",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "陳文山",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "內埔鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "鍾育杰",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "李明宗",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "林吉善",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            },
+            {
+              "name": "曾健野",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "南州鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "葉俊緯",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "劉美吟",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "屏東市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "梁育慈",
+              "party": "民主進步黨",
+              "date": "115/09/01"
+            },
+            {
+              "name": "周佳琪",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "崁頂鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蔡和清",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "郭建清",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "廖國富",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "劉惠美",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "恆春鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳文弘",
+              "party": "民主進步黨",
+              "date": "115/09/01"
+            },
+            {
+              "name": "盧玟欣",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "尤光彬",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            },
+            {
+              "name": "盧玉棟",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            },
+            {
+              "name": "尤光暉",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "新園鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃金樹",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "阮志光",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "新埤鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "曾明輝",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "王永豐",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "春日鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "柯政平",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "沈昉禎",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "東港鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃禎祥",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "洪志明",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "陳春朝",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "枋寮鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "洪茂豐",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "蘇清波",
+              "party": "民主進步黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "王立順",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "枋山鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "羅金良",
+              "party": "民主進步黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "洪啓能",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "林邊鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "鄭慶堂",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "郭美妏",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "泰武鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "潘明福",
+              "party": "Tivoran．",
+              "date": "115/09/01"
+            },
+            {
+              "name": "曾大衛",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "Tivoran．": 1,
+            "中國國民黨": 1
+          }
+        },
+        {
+          "name": "滿州鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "古榮福",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "余增春",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "潮州鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "王建元",
+              "party": "中國國民黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "潘素霞",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "洪明江",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "張王惠雪",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "牡丹鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林采穎",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "邵世光",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "詹德行",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "獅子鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "韋忠貞",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "朱宏恩",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "琉球鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "鄭源德",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "蔡榮民",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "李伊展",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "瑪家鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "羅清仁",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1
+          }
+        },
+        {
+          "name": "竹田鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "鍾定豪",
+              "party": "民主進步黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "張志誠",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "萬丹鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "李建霖",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "簡天屏",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "李曜丞",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            },
+            {
+              "name": "李和耿",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 4
+          }
+        },
+        {
+          "name": "萬巒鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "曾淼祥",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "何秋葺",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "車城鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳政雄",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "張春桂",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "里港鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳明達",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "藍婉茜",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "長治鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "邱佳娟",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "吳亮慶",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "霧臺鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "巴正義",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "高樹鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "梁正翰",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "王樹圍",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "鹽埔鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃智麟",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "柯信行",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "蔣滿祝",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "林政男",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 4
+          }
+        },
+        {
+          "name": "麟洛鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "李慧萍",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "廖龍依",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "盧重彰",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        }
+      ],
+      "mayor_seats": 33,
+      "mayor_candidates": 83,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "宜蘭縣": {
+      "code": "ILA",
+      "towns": [
+        {
+          "name": "宜蘭市",
+          "villages": 38,
+          "candidates": [
+            {
+              "name": "陳美玲",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "韓瑩",
+              "party": "民主進步黨",
+              "date": "115/09/04"
+            },
+            {
+              "name": "楊仟慧",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "羅東鎮",
+          "villages": 23,
+          "candidates": [
+            {
+              "name": "陳鴻禧",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "黃適超",
+              "party": "民主進步黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "蘇澳鎮",
+          "villages": 26,
+          "candidates": [
+            {
+              "name": "陳金麟",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "謝正信",
+              "party": "民主進步黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "頭城鎮",
+          "villages": 24,
+          "candidates": [
+            {
+              "name": "蔡文益",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "吳立民",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "礁溪鄉",
+          "villages": 18,
+          "candidates": [
+            {
+              "name": "游見璋",
+              "party": "中國國民黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "吳亞蓁",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "莊漢銘",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "杜國生",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "員山鄉",
+          "villages": 16,
+          "candidates": [
+            {
+              "name": "李筱婷",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "黃雯如",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "壯圍鄉",
+          "villages": 16,
+          "candidates": [
+            {
+              "name": "張家豪",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "張秋香",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "吳文進",
+              "party": "民主進步黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "游美蘭",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "五結鄉",
+          "villages": 15,
+          "candidates": [
+            {
+              "name": "羅淑惠",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "簡松樹",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "冬山鄉",
+          "villages": 24,
+          "candidates": [
+            {
+              "name": "陳鏗芳",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "林松根",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "謝燦輝",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "三星鄉",
+          "villages": 18,
+          "candidates": [
+            {
+              "name": "黃錫墉",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "江淳銘",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "大同鄉",
+          "villages": 10,
+          "candidates": [
+            {
+              "name": "胡文聰",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "賴正蘭",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "南澳鄉",
+          "villages": 7,
+          "candidates": [
+            {
+              "name": "薛秋花",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "江子文",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "游吉祥",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 2
+          }
+        }
+      ],
+      "mayor_seats": 12,
+      "mayor_candidates": 31,
+      "villages_total": 233,
+      "villages_counted": 235
+    },
+    "花蓮縣": {
+      "code": "HUN",
+      "towns": [
+        {
+          "name": "光復鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "鄭桂鐘",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "廖翊鈞",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "鍾玉清",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "吳明修Kaniu．Namoh",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "鄭萬正Ipay-Kaeti",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 4
+          }
+        },
+        {
+          "name": "卓溪鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳永光",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "田桂花",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "吉安鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "高德安",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "黃馨",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "林源富",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "黃金發",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "邱展謙",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 4
+          }
+        },
+        {
+          "name": "壽豐鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林品仰",
+              "party": "中國國民黨",
+              "date": "115/09/01"
+            },
+            {
+              "name": "劉耀宗",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 2
+          }
+        },
+        {
+          "name": "富里鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "江東成",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "新城鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "郭彩寶",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "陳柏錩",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "玉里鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "邱顯達",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "龔文俊",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "瑞穗鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "吳萬德",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "陳進光",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "許德志",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "秀林鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "程美蓮",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "胡智民",
+              "party": "中國國民黨",
+              "date": "115/09/01"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "花蓮市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "魏嘉彥",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "戴于文",
+              "party": "台灣民眾黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "賴威任",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            },
+            {
+              "name": "張榮法",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "台灣民眾黨": 1,
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "萬榮鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "梁光明",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "蘇勵明",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "豐濱鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林琨富",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "陳天高",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "曾金水",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "林健正",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "鳳林鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "何垂珍",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "蕭文龍",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        }
+      ],
+      "mayor_seats": 13,
+      "mayor_candidates": 36,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "臺東縣": {
+      "code": "TTT",
+      "towns": [
+        {
+          "name": "卑南鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "郭宗益",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "許文獻",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "大武鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "王景昌",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "潘美緣",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "太麻里鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "雷明聖",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "延平鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "伊藍．明基努安",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "余光雄",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "胡秋琴",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "胡黃廣文",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "胡忠義",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 4
+          }
+        },
+        {
+          "name": "成功鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "謝淑貞",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "吳全德",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "東河鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "田國義",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "葉啓煒",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "池上鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "魏瑞廷",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "林建宏",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "海端鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "張全馨嵐",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "許耀光",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "余秀芳",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "綠島鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "王姷力",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "何富祥",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "臺東市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳銘風",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "翁聖惠",
+              "party": "民主進步黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "蘭嶼鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "廖金龍",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "吳清美",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 2
+          }
+        },
+        {
+          "name": "達仁鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "呂美惠",
+              "party": "中國國民黨",
+              "date": "115/09/01"
+            },
+            {
+              "name": "黃漢忠",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "蔡玉玲",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 2,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "金峰鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "呂朝強",
+              "party": "Simelanga．",
+              "date": "115/09/01"
+            },
+            {
+              "name": "高勤書",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "呂聖傑",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "Simelanga．": 1,
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        },
+        {
+          "name": "長濱鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "李光蘭",
+              "party": "Coko'·Ufad 中國國民黨",
+              "date": "115/09/01"
+            },
+            {
+              "name": "嚴惠美",
+              "party": "Simoy．",
+              "date": "115/09/03"
+            },
+            {
+              "name": "潘經裕",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "Coko'·Ufad 中國國民黨": 1,
+            "Simoy．": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "關山鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "彭成豐",
+              "party": "中國國民黨",
+              "date": "115/09/01"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1
+          }
+        },
+        {
+          "name": "鹿野鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "李維順",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        }
+      ],
+      "mayor_seats": 16,
+      "mayor_candidates": 36,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "澎湖縣": {
+      "code": "PEN",
+      "towns": [
+        {
+          "name": "七美鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "夏建成",
+              "party": "無黨籍",
+              "date": "115/08/31"
+            },
+            {
+              "name": "張德文",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "呂明廣",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "望安鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "蔡月嬌",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1
+          }
+        },
+        {
+          "name": "湖西鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "楊昭武",
+              "party": "民主進步黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "洪添英",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "盧春田",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "白沙鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "吳龍河",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "吳良添",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            },
+            {
+              "name": "涂順清",
+              "party": "無黨籍",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "西嶼鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "李添進",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "馬公市",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃健忠",
+              "party": "民主進步黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "洪棟霖",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "民主進步黨": 1
+          }
+        }
+      ],
+      "mayor_seats": 6,
+      "mayor_candidates": 13,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "金門縣": {
+      "code": "KIN",
+      "towns": [
+        {
+          "name": "烈嶼鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "洪燕玉",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "洪鴻斌",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "烏坵鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "吳玉林",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "高丹華",
+              "party": "無黨籍",
+              "date": "115/09/01"
+            },
+            {
+              "name": "蔡金照",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "無黨籍": 3
+          }
+        },
+        {
+          "name": "金城鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "許燕輝",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "石兆瑉",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 2
+          }
+        },
+        {
+          "name": "金寧鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "翁紹輝",
+              "party": "中國國民黨",
+              "date": "115/08/31"
+            },
+            {
+              "name": "陳成泉",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "翁品洋",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "李正騰",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 4
+          }
+        },
+        {
+          "name": "金沙鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "黃奕焮",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "馬自壯",
+              "party": "中國國民黨",
+              "date": "115/09/02"
+            },
+            {
+              "name": "陳憶萍",
+              "party": "無黨籍",
+              "date": "115/09/02"
+            },
+            {
+              "name": "王石堆",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 3,
+            "無黨籍": 1
+          }
+        },
+        {
+          "name": "金湖鎮",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳向鑫",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "蔡乃靖",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            },
+            {
+              "name": "蔡西湖",
+              "party": "無黨籍",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 2,
+            "無黨籍": 1
+          }
+        }
+      ],
+      "mayor_seats": 6,
+      "mayor_candidates": 18,
+      "villages_total": 0,
+      "villages_counted": 0
+    },
+    "連江縣": {
+      "code": "LNN",
+      "towns": [
+        {
+          "name": "北竿鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "吳金平",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1
+          }
+        },
+        {
+          "name": "南竿鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "林志東",
+              "party": "中國國民黨",
+              "date": "115/09/01"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1
+          }
+        },
+        {
+          "name": "東引鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "馮印樂",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            },
+            {
+              "name": "林宇超",
+              "party": "中國國民黨",
+              "date": "115/09/04"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 2
+          }
+        },
+        {
+          "name": "莒光鄉",
+          "villages": 0,
+          "candidates": [
+            {
+              "name": "陳樂禮",
+              "party": "中國國民黨",
+              "date": "115/09/03"
+            }
+          ],
+          "parties": {
+            "中國國民黨": 1
+          }
+        }
+      ],
+      "mayor_seats": 4,
+      "mayor_candidates": 5,
+      "villages_total": 0,
+      "villages_counted": 0
+    }
+  }
+}
